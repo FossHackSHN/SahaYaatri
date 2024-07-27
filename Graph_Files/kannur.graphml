@@ -1,0 +1,5050 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="edge" attr.name="label" attr.type="long"/>
+<graph edgedefault="undirected"><node id="CHEMPERI"/>
+<node id="CHEMBANTHOTTY"/>
+<node id="THALIPARAMB BUS STAND"/>
+<node id="PARASSINIKADAVU BUS STAND"/>
+<node id="SREEKANDAPURAM"/>
+<node id="PAYYANNUR BUS STAND"/>
+<node id="KANNUR OLD BUS STAND"/>
+<node id="THALASSERY NEW BUS STAND"/>
+<node id="THILLENKERI IRITTY"/>
+<node id="MATTANUR BUS STAND"/>
+<node id="KUTHUPARAMB"/>
+<node id="THAVAKKARA NEW BUS STAND"/>
+<node id="KOZHIKKODE"/>
+<node id="MANIKKADAVU"/>
+<node id="IRITTY"/>
+<node id="KEEZHPALLY"/>
+<node id="CHATHIROOR"/>
+<node id="PAYYAVOOR"/>
+<node id="CHEMBERI"/>
+<node id="KARUMANAKKAYAM"/>
+<node id="THALASSERRY"/>
+<node id="KANNUR-THAVAKKARA BUS STAND"/>
+<node id="CHAKKARAKKAL"/>
+<node id="ANJARAKANDY"/>
+<node id="KEEZHALLUR BUS STOP"/>
+<node id="ELAYAVOOR TEMPLE"/>
+<node id="KANNUR HQ HOSP BUS STAND"/>
+<node id="KAMBIL"/>
+<node id="KANNADIPARA THALIPARAMBA"/>
+<node id="THAZHE CHOVVA"/>
+<node id="KAKKAYANGAD"/>
+<node id="MELUR"/>
+<node id="THOTTUMMAL"/>
+<node id="KOOMANTHODE"/>
+<node id="MAZHOOR"/>
+<node id="SREEKANDAPURAM BUS STAND"/>
+<node id="MAYYIL"/>
+<node id="ADICHERY"/>
+<node id="KANDAKAI"/>
+<node id="ALATHUPARAMBA"/>
+<node id="KALLUVAYAL"/>
+<node id="IRIKKUR"/>
+<node id="PERUMPADAVU"/>
+<node id="PAYYANNUR"/>
+<node id="PERALASSERY"/>
+<node id="AARANGHATIRI"/>
+<node id="MUDAPATHUR"/>
+<node id="CHEKKIKKULAM"/>
+<node id="NELLIKKAPALAM"/>
+<node id="THALIPARAMBA TALUK HOSP STOP"/>
+<node id="BAVUPARAMBA"/>
+<node id="ERIAM"/>
+<node id="KOYYAM"/>
+<node id="VADANKAVALA"/>
+<node id="KUNNATHUR"/>
+<node id="PADICHAL"/>
+<node id="PADENA"/>
+<node id="ETTIKULAM"/>
+<node id="RAMANTHALI - PAYYANNUR"/>
+<node id="CHERUVANCHERY"/>
+<node id="VENGAD"/>
+<node id="PANAYATHAMPARAMBA"/>
+<node id="CHALODE"/>
+<node id="KOLAYAD"/>
+<node id="PERAVOOR BUS STAND"/>
+<node id="ANAKUZHI"/>
+<node id="VALATHODE"/>
+<node id="PULLOOPPIKADAVU"/>
+<node id="VANNATHIMOOLA"/>
+<node id="MALOOR"/>
+<node id="PINARAYI"/>
+<node id="KAYALODE"/>
+<node id="MAMBARAM"/>
+<node id="KEEZHATHUR"/>
+<node id="AZHIKKAL FERRY"/>
+<node id="KAYACHIRA"/>
+<node id="PALLIPARAMBA"/>
+<node id="EZHUMVAYAL"/>
+<node id="NADUVIL THALIPARAMBA"/>
+<node id="THAVAKKARA NEW BUS ST AND"/>
+<node id="BLATHUR"/>
+<node id="KOLASSERI- THALASSERY"/>
+<node id="KUDIYANMALA"/>
+<node id="KOTTIYOOR BUS STAND"/>
+<node id="KATTAYAL"/>
+<node id="ALATHATTU"/>
+<node id="KALIKADAVU"/>
+<node id="THERTHALLY"/>
+<node id="ALAKODE"/>
+<node id="KANHANGAD"/>
+<node id="KUTTIATTOOR L P SCHOOL"/>
+<node id="THIMIRI"/>
+<node id="KATTAMPALLY"/>
+<node id="PAZHYANGADI"/>
+<node id="MUTTAM"/>
+<node id="KOOTTUPUZHA"/>
+<node id="VADAKARA"/>
+<node id="KOSAVANVAYAL"/>
+<node id="CHALOD"/>
+<node id="MALOTT"/>
+<node id="CHERUKUNNU THARA"/>
+<node id="MATTOOL CENTRAL"/>
+<node id="PUTHIYANGADI"/>
+<node id="KOTTIYATTOOR"/>
+<node id="KOZHIKODE"/>
+<node id="NADAPURAM"/>
+<node id="VILANGAD"/>
+<node id="KADAVATHUR"/>
+<node id="PANOOR"/>
+<node id="KOORARA- THALASSERY"/>
+<node id="PACHAPOIKA"/>
+<node id="ANDALOOR"/>
+<node id="THAYYENI"/>
+<node id="PULINGOME"/>
+<node id="CHERUPUZHA"/>
+<node id="MANIKADAVU"/>
+<node id="PURALIMALA"/>
+<node id="KOLITHATTU"/>
+<node id="KANNUR- THAVAKKARA BUS ST AND"/>
+<node id="KUTTIKKAKAM"/>
+<node id="KALLUKETTUCHIRA"/>
+<node id="ADAKKATHODU"/>
+<node id="PARATT"/>
+<node id="KALLIKANDY- THALASSERY"/>
+<node id="MEDICAL COLLEGE, ANJARAKANDY"/>
+<node id="PODIKKALAM"/>
+<node id="C.POYILOOR"/>
+<node id="VILAKKOTOOR"/>
+<node id="MATTOOL"/>
+<node id="PALAKOD- PAYYANNUR"/>
+<node id="KIDANHI"/>
+<node id="MAMANAM TEMPLE"/>
+<node id="MANNUR"/>
+<node id="CHALA"/>
+<node id="PALAKKAD SWAMI MADAM"/>
+<node id="ADIKADALAYI- KANNUR"/>
+<node id="KUTTIATTOOR PANCHAYATH"/>
+<node id="KAVINCHAL"/>
+<node id="PAYYANNUR RAILWAY STATION"/>
+<node id="POTHAMKANDAM"/>
+<node id="VALLIPILAVU"/>
+<node id="KAKKARAPPALLY"/>
+<node id="PALLIPRAM"/>
+<node id="KAPPIMALA"/>
+<node id="MOORIKADAVU"/>
+<node id="MANAKKADAVU"/>
+<node id="MUTHUKUDA- THALIPARAMBA"/>
+<node id="PANUNDA- THALASSERY"/>
+<node id="KUTTIYATTOOR PANCHAYATH"/>
+<node id="ARAYANGAD"/>
+<node id="EDAYAR - KUTHUPARAMB"/>
+<node id="PUTHIYANGADI BEACH"/>
+<node id="MATHAMANGALAM"/>
+<node id="THOTTAMKADAVU"/>
+<node id="PILATHARA BUS STAND"/>
+<node id="KARUVANCHAL BUS STOP"/>
+<node id="MOTTAMMAL UPS"/>
+<node id="KEEZHARA"/>
+<node id="THALIPARAMB BUS ST AND"/>
+<node id="VELLAVU"/>
+<node id="MUTHUKUDA"/>
+<node id="IRINGAL"/>
+<node id="VELLIKEEL"/>
+<node id="CHALAT TEMPLE"/>
+<node id="MARAKKARKANDY STOP"/>
+<node id="VALLYAYI ROAD BUS ST OP"/>
+<node id="ERANHEENTAKEEZHIL"/>
+<node id="MAMPOYIL"/>
+<node id="KUTTA"/>
+<node id="VIRAJPETTA"/>
+<node id="KANNUR BUS STAND"/>
+<node id="MANAKKAYI BUS STOP"/>
+<node id="KAKAD"/>
+<node id="THALAVIL-CHALA"/>
+<node id="KANNUUR"/>
+<node id="SN TEMPLE"/>
+<node id="PAZHAYANADI"/>
+<node id="MADAKKARA"/>
+<node id="KUNHIMANGALAM"/>
+<node id="CHANDANAKAMPARA"/>
+<node id="IDUMBA"/>
+<node id="KOMAKKIRI"/>
+<node id="KELAKAM"/>
+<node id="KOLAKKAD"/>
+<node id="RANDAMKADAVU"/>
+<node id="VARAM"/>
+<node id="THEKKI BAZAR"/>
+<node id="VARAM KADAVU"/>
+<node id="PAVANNUR KADAVU"/>
+<node id="CHEEKKAD- ALAKODE"/>
+<node id="KADAVATHUR- THALASSERY"/>
+<node id="PARAKKADAVU"/>
+<node id="KARIYAD"/>
+<node id="THOTTILPALAM"/>
+<node id="MORAZHA"/>
+<node id="KALLOORIKADAVU"/>
+<node id="KANNUR HQ HOSP BUS ST AND"/>
+<node id="PATTUVAM"/>
+<node id="ANJAMPEEDIKA"/>
+<node id="ULIKKAL"/>
+<node id="KACHERITHARA"/>
+<node id="TALIPARAMBA"/>
+<node id="KOZHICHAL"/>
+<node id="KAVIYOOR"/>
+<node id="KUTTYADI"/>
+<node id="VALLITHODE"/>
+<node id="PARAPPA ALAKODE"/>
+<node id="KALLIASSERY"/>
+<node id="THOTTEEKKAL"/>
+<node id="MOONAMKUNNU"/>
+<node id="CHOOLIYAD"/>
+<node id="PERUVALATHUPARAMBA- IRIKKUR"/>
+<node id="VILAKKOTTUR"/>
+<node id="NIRMALA GIRI- KUTHUPARAMBA"/>
+<node id="KOOLIKADAVE"/>
+<node id="PARIYARAM MEDICAL COLLEGE"/>
+<node id="BEACH ROAD"/>
+<node id="MATTARA- ULIKKAL"/>
+<node id="KALANKI- ULIKKAL"/>
+<node id="MOONNAMKUNNU"/>
+<node id="CHERA"/>
+<node id="PALIYATH VALAPPU"/>
+<node id="NIRANTHODE"/>
+<node id="MOONNUPERIYA"/>
+<node id="MUNDERIKADAVU"/>
+<node id="NEERKADAVU"/>
+<node id="VADUVANKULAM"/>
+<node id="PATHIRIYAD- KUTHUPARAMB"/>
+<node id="CHOKLI"/>
+<node id="MAHEPALAM BUS STOP"/>
+<node id="MELOOR"/>
+<node id="KEEZHPALLY- IRITTY"/>
+<node id="EDAKKEPURAM"/>
+<node id="ETTUPARA"/>
+<node id="CHEDIKKULAM"/>
+<node id="PARIPPUTHODU"/>
+<node id="KAKKARA"/>
+<node id="VELLORA- MATHAMANGALAM"/>
+<node id="PADANNA"/>
+<node id="THALASSERY"/>
+<node id="KUTTIKKAKAM MUNAMBU"/>
+<node id="MAYYIL V O"/>
+<node id="PARASSINIKADAVU BUS ST AND"/>
+<node id="PAZHASSI PALLI"/>
+<node id="AZHIKKAL LIGHT HOSE"/>
+<node id="CHENDAYAD"/>
+<node id="SIVAPURAM- THALASSERY"/>
+<node id="PORORA"/>
+<node id="KEECHERI"/>
+<node id="OLAYAMBADI- MATHAMANGALAM"/>
+<node id="THOTAMKADAVU"/>
+<node id="PERINGOME"/>
+<node id="KANNUR RAILWAY STATION"/>
+<node id="TALAP"/>
+<node id="THOTTADA"/>
+<node id="EMS VAYANASALA"/>
+<node id="PALAYAM THATTARIPPALAM ROAD"/>
+<node id="THALIPARA"/>
+<node id="KAVINMUNAMBU"/>
+<node id="PULIKURUMBA"/>
+<node id="VALIYA VELICHAM"/>
+<node id="ARIVILANJAPOYIL- ALAKODE"/>
+<node id="CHEKKIKULAM"/>
+<node id="MUNDERIMOTTA"/>
+<node id="ORAVAYAL"/>
+<node id="TIRUR - PAYYAVOOR"/>
+<node id="KANHILERI"/>
+<node id="KOYYODE"/>
+<node id="SOUTH BAZAR"/>
+<node id="KANNUR RAILWAT STATION"/>
+<node id="PAYYAMBALAM"/>
+<node id="BAVUPARAMBA- PARASSINI STOP"/>
+<node id="PURAVATTAM"/>
+<node id="KAKKARA- MATHAMANGALAM"/>
+<node id="AZHEEKKAL"/>
+<node id="PUTHIYATHERU"/>
+<node id="MAVUMTHATTU"/>
+<node id="CHERUKUNNU TEMPLE"/>
+<node id="MALABAR CANCER CENTER BUS STOP"/>
+<node id="AMBAYATHODE"/>
+<node id="CHENDAYAD- THALASSERY"/>
+<node id="PANOOR- THALASSERY"/>
+<node id="KAIVELIKKAL- THALASSERY"/>
+<node id="MARUTHUMPADI"/>
+<node id="PANNIYOOR THALIPARAMBA"/>
+<node id="MELUR- THALASSERY"/>
+<node id="MONTHAL"/>
+<node id="THRIKARIPUR"/>
+<node id="C.H MUKKU"/>
+<node id="PARAPRAM-"/>
+<node id="MEENKADAV"/>
+<node id="VILLAGE MUKKU"/>
+<node id="KANNADIPARAMBA BUS STOP"/>
+<node id="KORALAI"/>
+<node id="ORAPPADI"/>
+<node id="CHAMPAD"/>
+<node id="NEDUMPOYIL"/>
+<node id="CHEMBUKKAV"/>
+<node id="VANCHIYAM"/>
+<node id="CHOOTTAD"/>
+<node id="VELLIKKEEL- THALIPARAMBA"/>
+<node id="POYILOOR"/>
+<node id="CHEMBALLIKUND"/>
+<node id="KADAPPURAM ROAD"/>
+<node id="ADUVAPPURAM"/>
+<node id="MULLAKODY"/>
+<node id="KARARAMBA"/>
+<node id="PALLIMUKKU"/>
+<node id="BANDADKKA"/>
+<node id="VELLARIKUNDU"/>
+<node id="ALAKKODE"/>
+<node id="ARALAM FARM"/>
+<node id="ERAMAM- MATHAMANGALAM"/>
+<node id="THIRUVATTOOR"/>
+<node id="AMMANAPPARA"/>
+<node id="MANANTHAWADY STAND"/>
+<node id="VENGAD THERU"/>
+<node id="ADAKKATHOD- IRITTY"/>
+<node id="CHALADTHODE"/>
+<node id="KANNUR-THAVAKKARA BUS ST AND"/>
+<node id="THATTUMMAL- CHERUPUZHA"/>
+<node id="AYYOT H"/>
+<node id="KURUMATHUR"/>
+<node id="MAMAMNAM"/>
+<node id="RAMANTHALI NAVAL GATE"/>
+<node id="KOROME ENGG COLLEGE"/>
+<node id="KALLUKETTCHIRA"/>
+<node id="OTTATHAI"/>
+<node id="ATTADAPPA- KANNUR"/>
+<node id="CHAKKALAKUNNU"/>
+<node id="PALCHURAM"/>
+<node id="KANNUR CITY BUS STOP"/>
+<node id="MURINGERI"/>
+<node id="KUNNUMKAI- KANNUR"/>
+<node id="PANTHAKKAPARA"/>
+<node id="MALAL"/>
+<node id="POROLAM"/>
+<node id="MUYYAM"/>
+<node id="DHARMASALA"/>
+<node id="KANHAGAD"/>
+<node id="KOZHIKODE CITY"/>
+<node id="KARIPUR"/>
+<node id="NILLANGAL"/>
+<node id="THULLANPARA ROAD"/>
+<node id="ODAKKADAVU"/>
+<node id="OORPALLY"/>
+<node id="MULLOOL- THALIPARAMBA"/>
+<node id="SREEKANDAPURAM BUS ST AND"/>
+<node id="KANHANGAD BUS STNAD"/>
+<node id="KASARAGOD"/>
+<node id="KUTTAV"/>
+<node id="MANAKADAVU"/>
+<node id="PANANGATTOOR"/>
+<node id="PODUVACHERY"/>
+<node id="KOODALI"/>
+<node id="ONNAMPALAM"/>
+<node id="CHANDANAKKAMPARA"/>
+<node id="KANNUR- THAVAKKARA BUS STAND"/>
+<node id="KARINKALKUZHI"/>
+<node id="KOTTIYUR TEMPLE"/>
+<node id="CHELORA HSS"/>
+<node id="CHORAYAMKUNDU"/>
+<node id="MAZHOOR TEMPLE"/>
+<node id="ERAMAM"/>
+<node id="THIRUMENI"/>
+<node id="BALAN KINAR"/>
+<node id="PUTHIYAPUZHAKKARA"/>
+<node id="KAKKEYANGAD"/>
+<node id="VANIYAPPARA"/>
+<node id="PAVANOORMOTTA BUS STOP"/>
+<node id="THALAVIL"/>
+<node id="EDAKKAITHODE"/>
+<node id="BURNASSERY"/>
+<node id="PALAKKOD"/>
+<node id="ERUVESSY"/>
+<node id="URUVACHAL"/>
+<node id="CHAMATHAKKAD"/>
+<node id="PERUMBADAVU"/>
+<node id="PANATHUR"/>
+<node id="ANDALOOR KAVU,"/>
+<node id="PERALASSERY TEMPLE"/>
+<node id="AYITHARA"/>
+<node id="KADACHIRA"/>
+<node id="CHERUVATHUR"/>
+<node id="MORAZHA CENTRAL"/>
+<node id="KADANNAPPALLI"/>
+<node id="NHEKLY"/>
+<node id="KARMMEL"/>
+<node id="VALAYAM"/>
+<node id="VELLACHAL"/>
+<node id="PALAKKODE"/>
+<node id="ARALAM- IRITTY"/>
+<node id="PARIKKALAM"/>
+<node id="EDAPPUZHA"/>
+<node id="CHEMBILODE"/>
+<node id="SOUTH ELAYAVOOR TEMPLE"/>
+<node id="CHEMPERI ENGG COLLEGE"/>
+<node id="CHERIYA AREEKKAMALA"/>
+<node id="THEKKUMBADKAD"/>
+<node id="KANNAPPILAVU BUS STOP"/>
+<node id="MUTHUVAM TEMPLE"/>
+<node id="KALISWARAM"/>
+<node id="MUDATHODE"/>
+<node id="KUDUKKIMOTTA"/>
+<node id="PERUMPUNNA"/>
+<node id="KUNHIPALLY"/>
+<node id="THRIKADARIPPOYIL"/>
+<node id="CHITTARIPPARAMB"/>
+<node id="KADUKKARAM BUS STOP"/>
+<node id="IRIVERI"/>
+<node id="BAKKALAM THALIPPARAMBA"/>
+<node id="KOTTALIKKAVU"/>
+<node id="PADANNAKADAPPURAM"/>
+<node id="ADAKATHODE"/>
+<node id="PATHAYAKUNNU- THALASSERY"/>
+<node id="KOTTAYODI"/>
+<node id="ALACHERY"/>
+<node id="EZHOME"/>
+<node id="MADAPPURA"/>
+<node id="PURAKKUNNU"/>
+<node id="VALLAYI"/>
+<node id="KAKKAD"/>
+<node id="VELLARIKKUNDU"/>
+<node id="KUNNUMKAI"/>
+<node id="CHITTARIKKAL"/>
+<node id="VEERPAD- IRITTY"/>
+<node id="MUNDATHODE"/>
+<node id="KANNAVAM"/>
+<node id="THRIKKADARIPOIL"/>
+<node id="KOTTIYUR"/>
+<node id="KALLACHIL"/>
+<node id="MALAPATTAM- SREEKANDAPURAM"/>
+<node id="VATAKARA"/>
+<node id="VALATHOD- IRITTY"/>
+<node id="KAKKAPPALLY"/>
+<node id="PARAMMEL SCHOOL"/>
+<node id="KOTTAKKEEL KADAVU"/>
+<node id="KARYATTUPURAM"/>
+<node id="CHOLA ROAD"/>
+<node id="S N COLLEGE KANNUR"/>
+<node id="THANIKUNNU"/>
+<node id="KANJIRAKOLLI"/>
+<node id="KADIRUR BUS STOP"/>
+<node id="MUKKOD"/>
+<node id="MULLOOL"/>
+<node id="C H MUKK"/>
+<node id="CENTRAL POYILOOR"/>
+<node id="PULIMARAMCHEETHA"/>
+<node id="MAHEPALAM"/>
+<node id="PADUVILAKKAV"/>
+<node id="VALIYAVELICHAM"/>
+<node id="KUNDUTHODE"/>
+<node id="ATTADAPPA"/>
+<node id="CHELORA PERIKKALAM COLONY"/>
+<node id="KOYYOTTPALAM"/>
+<node id="ANJAMPEEIKA"/>
+<node id="PATTUVAM KAVINMUNAMBU"/>
+<node id="CHETTAKANDY"/>
+<node id="PAYYANUR COLLEGE"/>
+<node id="CHARAL"/>
+<node id="POOVATTUPARAMBA"/>
+<node id="ERYAM"/>
+<node id="THENAM"/>
+<node id="MANIYARA"/>
+<node id="PERINGATHOOR"/>
+<node id="THAYAMPOYIL"/>
+<node id="KOTTIYOOR TEMPLE"/>
+<node id="THERANDY"/>
+<node id="RAJAGIRI- ALAKODE"/>
+<node id="THUDIMARAM"/>
+<node id="POOLAKUTTY- IRITTY"/>
+<node id="MUBARAK JUNCTION"/>
+<node id="KADANKODE"/>
+<node id="VENGADANGADI"/>
+<node id="MAHE RLY"/>
+<node id="KODUVALLY"/>
+<node id="VADAKKUMBAD"/>
+<node id="AADIKADALAYI"/>
+<node id="KUNNUMKAIPALLI"/>
+<node id="THENNAM"/>
+<node id="KUNNATHOOR PADI"/>
+<node id="NADUVIL"/>
+<node id="KAVUMBAI"/>
+<node id="KAPPATTUKUNNU"/>
+<node id="CHALAD HOSPITAL"/>
+<node id="NERUVAMBRAM"/>
+<node id="THODEEKALAM"/>
+<node id="VAYANNUR"/>
+<node id="DALIL PALL"/>
+<node id="ERANJIKADAVU"/>
+<node id="VANKULATHVAYAL"/>
+<node id="CHERUVATHALAMOTTA"/>
+<node id="IRINAVE ROAD"/>
+<node id="THEKKUMBAD"/>
+<node id="VALAPATTANAM"/>
+<node id="KOVVAPURAM- EZHILODE"/>
+<node id="MARAPPALAM"/>
+<node id="VELLUNNI"/>
+<node id="SANTHIGIRI"/>
+<node id="THAVAROOL"/>
+<node id="MALOTH- KANNUR"/>
+<node id="KUNNUMKAIPAL"/>
+<node id="MOOLAKKEEL KADAVU"/>
+<node id="NAVAL ACADEMY"/>
+<node id="MANANTHAVADY"/>
+<node id="THIRUNELLY"/>
+<node id="POYILOOR MADAPPURA"/>
+<node id="C POYILOOR"/>
+<node id="MANGOOTTAM"/>
+<node id="THILLANKERI"/>
+<node id="CHEMPANTHOTTY"/>
+<node id="UDAYAGIRI ALAKODE"/>
+<node id="PODIKKUNDU"/>
+<node id="OORATHUR"/>
+<node id="CHUZHALI"/>
+<node id="KANAMVAYAL"/>
+<node id="THAVIDISSERI"/>
+<node id="CHOORAL"/>
+<node id="NARAYANAKALU THATTU"/>
+<node id="PATHENPARA"/>
+<node id="KARUVANCHAL,"/>
+<node id="THUVAKKUNNU"/>
+<node id="MANATTY"/>
+<node id="VALIYANOOR"/>
+<node id="PULLOOPP BUS STOP"/>
+<node id="CHELERI MUKKU"/>
+<node id="KANNUR BUS S"/>
+<node id="KARA"/>
+<node id="KANNADIPARAMBA"/>
+<node id="PADAPPENGAD"/>
+<node id="ANAPANTHI KAVALA"/>
+<node id="URUPPUMKUTTY,"/>
+<node id="PAZHASSI DAM"/>
+<node id="RAYAROME"/>
+<node id="ALAKKAD"/>
+<node id="KARAYATHUMCHAL"/>
+<node id="KANNAVAM COLONY"/>
+<node id="MANAKKAI"/>
+<node id="VEMBADI"/>
+<node id="KUTTIYADI"/>
+<node id="MATHAMANGALAM BAZ AR"/>
+<node id="KARYAPPALLI"/>
+<node id="VELLORA"/>
+<node id="AMBALAKANDY"/>
+<node id="MATOOL"/>
+<node id="CHEPPARAMBA SREEKANDPURAMA"/>
+<edge source="CHEMPERI" target="CHEMBANTHOTTY">
+  <data key="d0">1</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMPERI" target="KUDIYANMALA">
+  <data key="d0">38</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMPERI" target="PAYYAVOOR">
+  <data key="d0">38</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMPERI" target="SREEKANDAPURAM BUS STAND">
+  <data key="d0">458</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMPERI" target="ETTUPARA">
+  <data key="d0">698</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMPERI" target="THALIPARAMB BUS STAND">
+  <data key="d0">231</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMPERI" target="CHEMPERI ENGG COLLEGE">
+  <data key="d0">458</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMPERI" target="THERTHALLY">
+  <data key="d0">515</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMPERI" target="THALIPARAMB BUS ST AND">
+  <data key="d0">546</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMPERI" target="PULIKURUMBA">
+  <data key="d0">551</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMPERI" target="SREEKANDAPURAM">
+  <data key="d0">698</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMPERI" target="NADUVIL">
+  <data key="d0">753</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMBANTHOTTY" target="THALIPARAMB BUS STAND">
+  <data key="d0">225</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMBANTHOTTY" target="NADUVIL THALIPARAMBA">
+  <data key="d0">97</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMBANTHOTTY" target="SREEKANDAPURAM BUS STAND">
+  <data key="d0">417</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMBANTHOTTY" target="CHEMBERI">
+  <data key="d0">225</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMBANTHOTTY" target="ALAKODE">
+  <data key="d0">334</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMBANTHOTTY" target="KARAYATHUMCHAL">
+  <data key="d0">723</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMBANTHOTTY" target="SREEKANDAPURAM">
+  <data key="d0">723</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PARASSINIKADAVU BUS STAND">
+  <data key="d0">754</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PAYYANNUR BUS STAND">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="KANNUR OLD BUS STAND">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MAZHOOR">
+  <data key="d0">708</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="SREEKANDAPURAM BUS STAND">
+  <data key="d0">666</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="SREEKANDAPURAM">
+  <data key="d0">734</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="KOYYAM">
+  <data key="d0">535</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="KANNUR-THAVAKKARA BUS STAND">
+  <data key="d0">725</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="EZHUMVAYAL">
+  <data key="d0">35</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="THAVAKKARA NEW BUS STAND">
+  <data key="d0">684</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="KATTAYAL">
+  <data key="d0">39</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="ALATHATTU">
+  <data key="d0">39</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="KATTAMPALLY">
+  <data key="d0">45</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="ALAKODE">
+  <data key="d0">725</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MUTHUKUDA- THALIPARAMBA">
+  <data key="d0">587</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="CHERUKUNNU THARA">
+  <data key="d0">674</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PAYYANNUR">
+  <data key="d0">668</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="KARUVANCHAL BUS STOP">
+  <data key="d0">128</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MAYYIL">
+  <data key="d0">135</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PATTUVAM">
+  <data key="d0">674</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="ANJAMPEEDIKA">
+  <data key="d0">136</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="THOTTEEKKAL">
+  <data key="d0">148</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MORAZHA">
+  <data key="d0">237</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PARIYARAM MEDICAL COLLEGE">
+  <data key="d0">457</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PAZHYANGADI">
+  <data key="d0">604</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MOONNAMKUNNU">
+  <data key="d0">159</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="THERTHALLY">
+  <data key="d0">581</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="IRITTY">
+  <data key="d0">734</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="KAVINMUNAMBU">
+  <data key="d0">639</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="THAVAKKARA NEW BUS ST AND">
+  <data key="d0">252</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PANNIYOOR THALIPARAMBA">
+  <data key="d0">268</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="KACHERITHARA">
+  <data key="d0">292</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="VELLIKKEEL- THALIPARAMBA">
+  <data key="d0">292</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MULLAKODY">
+  <data key="d0">297</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="OLAYAMBADI- MATHAMANGALAM">
+  <data key="d0">307</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="AMMANAPPARA">
+  <data key="d0">309</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="ERIAM">
+  <data key="d0">588</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MUYYAM">
+  <data key="d0">358</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="KANNUR-THAVAKKARA BUS ST AND">
+  <data key="d0">371</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MULLOOL- THALIPARAMBA">
+  <data key="d0">482</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PANANGATTOOR">
+  <data key="d0">648</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MAZHOOR TEMPLE">
+  <data key="d0">404</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="CHERUPUZHA">
+  <data key="d0">684</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PERUMBADAVU">
+  <data key="d0">431</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MATHAMANGALAM">
+  <data key="d0">431</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MORAZHA CENTRAL">
+  <data key="d0">440</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="BAVUPARAMBA- PARASSINI STOP">
+  <data key="d0">456</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="KURUMATHUR">
+  <data key="d0">458</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MUTHUKUDA">
+  <data key="d0">656</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="VELLIKEEL">
+  <data key="d0">479</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="BAKKALAM THALIPPARAMBA">
+  <data key="d0">485</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="KUDIYANMALA">
+  <data key="d0">516</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="THEKKUMBADKAD">
+  <data key="d0">534</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="THANIKUNNU">
+  <data key="d0">534</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MULLOOL">
+  <data key="d0">669</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PATTUVAM KAVINMUNAMBU">
+  <data key="d0">563</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="MARAKKARKANDY STOP">
+  <data key="d0">564</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="THENNAM">
+  <data key="d0">621</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PERUMPADAVU">
+  <data key="d0">621</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="CHERUKUNNU TEMPLE">
+  <data key="d0">649</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="THAVAROOL">
+  <data key="d0">671</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="CHEMPANTHOTTY">
+  <data key="d0">698</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PILATHARA BUS STAND">
+  <data key="d0">708</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PADAPPENGAD">
+  <data key="d0">712</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="ALAKKAD">
+  <data key="d0">721</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="KARUVANCHAL,">
+  <data key="d0">722</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS STAND" target="PAZHAYANADI">
+  <data key="d0">754</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="SREEKANDAPURAM">
+  <data key="d0">1</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="THALASSERY NEW BUS STAND">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="KANNUR HQ HOSP BUS STAND">
+  <data key="d0">733</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="BAVUPARAMBA">
+  <data key="d0">19</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="KANNUR-THAVAKKARA BUS STAND">
+  <data key="d0">754</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="MAYYIL">
+  <data key="d0">297</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="KAMBIL">
+  <data key="d0">367</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="KANNUUR">
+  <data key="d0">108</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="MADAKKARA">
+  <data key="d0">138</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="THAVAKKARA NEW BUS STAND">
+  <data key="d0">681</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="KOZHIKKODE">
+  <data key="d0">661</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="PAYYANNUR">
+  <data key="d0">498</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="KALLOORIKADAVU">
+  <data key="d0">135</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="TALIPARAMBA">
+  <data key="d0">138</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="THALASSERRY">
+  <data key="d0">668</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="BAVUPARAMBA- PARASSINI STOP">
+  <data key="d0">456</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="PAZHYANGADI">
+  <data key="d0">252</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="VELLIKKEEL- THALIPARAMBA">
+  <data key="d0">292</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="POROLAM">
+  <data key="d0">354</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="DHARMASALA">
+  <data key="d0">358</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="KANNAPPILAVU BUS STOP">
+  <data key="d0">461</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="KALISWARAM">
+  <data key="d0">468</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="CHALODE">
+  <data key="d0">564</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="ERYAM">
+  <data key="d0">579</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="PANANGATTOOR">
+  <data key="d0">648</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="KEEZHARA">
+  <data key="d0">664</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="KANNUR- THAVAKKARA BUS ST AND">
+  <data key="d0">697</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS STAND" target="KOZHIKODE">
+  <data key="d0">717</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="IRIKKUR">
+  <data key="d0">734</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="PAYYAVOOR">
+  <data key="d0">623</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="IRITTY">
+  <data key="d0">577</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="VALATHODE">
+  <data key="d0">29</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="ADAKKATHODU">
+  <data key="d0">68</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="KANNUR-THAVAKKARA BUS STAND">
+  <data key="d0">69</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="KANDAKAI">
+  <data key="d0">74</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="THALIPARAMB BUS ST AND">
+  <data key="d0">701</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="ERUVESSY">
+  <data key="d0">426</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="CHANDANAKKAMPARA">
+  <data key="d0">514</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="MALAPATTAM- SREEKANDAPURAM">
+  <data key="d0">515</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="MAYYIL">
+  <data key="d0">573</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="CHEMBERI">
+  <data key="d0">596</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="NADUVIL">
+  <data key="d0">626</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="KAVUMBAI">
+  <data key="d0">626</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="CHEMPANTHOTTY">
+  <data key="d0">753</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="THALIPARAMBA TALUK HOSP STOP">
+  <data key="d0">715</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM" target="CHEPPARAMBA SREEKANDPURAMA">
+  <data key="d0">753</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR BUS STAND" target="PAYYANNUR RAILWAY STATION">
+  <data key="d0">663</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR BUS STAND" target="POTHAMKANDAM">
+  <data key="d0">83</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR BUS STAND" target="PAZHYANGADI">
+  <data key="d0">672</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR BUS STAND" target="THAVAKKARA NEW BUS STAND">
+  <data key="d0">679</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR BUS STAND" target="PILATHARA BUS STAND">
+  <data key="d0">663</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR OLD BUS STAND" target="THALASSERY NEW BUS STAND">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERY NEW BUS STAND" target="KALLIKANDY- THALASSERY">
+  <data key="d0">117</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERY NEW BUS STAND" target="IRITTY">
+  <data key="d0">258</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERY NEW BUS STAND" target="MALABAR CANCER CENTER BUS STOP">
+  <data key="d0">258</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERY NEW BUS STAND" target="CHOKLI">
+  <data key="d0">446</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERY NEW BUS STAND" target="VADAKARA">
+  <data key="d0">446</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERY NEW BUS STAND" target="KADIRUR BUS STOP">
+  <data key="d0">539</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERY NEW BUS STAND" target="THOTTUMMAL">
+  <data key="d0">539</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THILLENKERI IRITTY" target="MATTANUR BUS STAND">
+  <data key="d0">3</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="KUTHUPARAMB">
+  <data key="d0">739</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="ANJARAKANDY">
+  <data key="d0">629</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="IRITTY">
+  <data key="d0">730</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="MANNUR">
+  <data key="d0">598</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="CHALODE">
+  <data key="d0">408</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="MANAKKAYI BUS STOP">
+  <data key="d0">104</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="KANNUR-THAVAKKARA BUS STAND">
+  <data key="d0">147</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="THALASSERRY">
+  <data key="d0">518</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="CHAKKARAKKAL">
+  <data key="d0">598</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="SIVAPURAM- THALASSERY">
+  <data key="d0">206</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="CHEKKIKKULAM">
+  <data key="d0">241</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="VENGAD THERU">
+  <data key="d0">313</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="CHEKKIKULAM">
+  <data key="d0">317</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="IRIKKUR">
+  <data key="d0">728</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="MURINGERI">
+  <data key="d0">345</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="THAVAKKARA NEW BUS STAND">
+  <data key="d0">483</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="KALLUVAYAL">
+  <data key="d0">569</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="VENGAD">
+  <data key="d0">624</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="THRIKADARIPPOYIL">
+  <data key="d0">624</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="KAKKAYANGAD">
+  <data key="d0">695</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="KEECHERI">
+  <data key="d0">729</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="MANAKKAI">
+  <data key="d0">729</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTANUR BUS STAND" target="VEMBADI">
+  <data key="d0">730</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="THAVAKKARA NEW BUS STAND">
+  <data key="d0">679</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="THALASSERRY">
+  <data key="d0">747</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KEEZHALLUR BUS STOP">
+  <data key="d0">384</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KAKKAYANGAD">
+  <data key="d0">116</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="AARANGHATIRI">
+  <data key="d0">377</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="MUDAPATHUR">
+  <data key="d0">52</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="CHERUVANCHERY">
+  <data key="d0">657</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KANNUR-THAVAKKARA BUS STAND">
+  <data key="d0">752</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KOLAYAD">
+  <data key="d0">284</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="VANNATHIMOOLA">
+  <data key="d0">388</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="PERAVOOR BUS STAND">
+  <data key="d0">746</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="IRITTY">
+  <data key="d0">574</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="PERALASSERY">
+  <data key="d0">165</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="PACHAPOIKA">
+  <data key="d0">60</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="MAMBARAM">
+  <data key="d0">749</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="PANUNDA- THALASSERY">
+  <data key="d0">90</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="EDAYAR - KUTHUPARAMB">
+  <data key="d0">747</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="ERANHEENTAKEEZHIL">
+  <data key="d0">100</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="IDUMBA">
+  <data key="d0">543</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="ANJARAKANDY">
+  <data key="d0">727</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="THOTTILPALAM">
+  <data key="d0">132</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="PANOOR">
+  <data key="d0">711</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="NIRMALA GIRI- KUTHUPARAMBA">
+  <data key="d0">155</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KOOLIKADAVE">
+  <data key="d0">156</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="VENGAD">
+  <data key="d0">739</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="MALOOR">
+  <data key="d0">508</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KOTTIYOOR BUS STAND">
+  <data key="d0">172</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="PATHIRIYAD- KUTHUPARAMB">
+  <data key="d0">173</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="VALIYA VELICHAM">
+  <data key="d0">665</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="THAVAKKARA NEW BUS ST AND">
+  <data key="d0">264</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KEEZHATHUR">
+  <data key="d0">548</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="OORPALLY">
+  <data key="d0">376</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KANNUR HQ HOSP BUS ST AND">
+  <data key="d0">377</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KANNUR HQ HOSP BUS STAND">
+  <data key="d0">391</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KOTTIYUR TEMPLE">
+  <data key="d0">396</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="URUVACHAL">
+  <data key="d0">429</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KANNUR- THAVAKKARA BUS ST AND">
+  <data key="d0">429</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="PERALASSERY TEMPLE">
+  <data key="d0">686</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="AYITHARA">
+  <data key="d0">435</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="CHITTARIPPARAMB">
+  <data key="d0">472</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KOTTAYODI">
+  <data key="d0">489</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="ALACHERY">
+  <data key="d0">491</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KANNAVAM">
+  <data key="d0">682</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="VENGAD THERU">
+  <data key="d0">511</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KARYATTUPURAM">
+  <data key="d0">528</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="PADUVILAKKAV">
+  <data key="d0">553</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="VALIYAVELICHAM">
+  <data key="d0">553</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="THRIKADARIPPOYIL">
+  <data key="d0">624</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="PAYYANNUR">
+  <data key="d0">638</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KOTTIYOOR TEMPLE">
+  <data key="d0">586</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="VENGADANGADI">
+  <data key="d0">608</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="THODEEKALAM">
+  <data key="d0">631</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KEEZHARA">
+  <data key="d0">654</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="PODUVACHERY">
+  <data key="d0">659</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="AMBAYATHODE">
+  <data key="d0">679</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="THALASSERY">
+  <data key="d0">752</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTHUPARAMB" target="KANNAVAM COLONY">
+  <data key="d0">724</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="KOZHIKKODE">
+  <data key="d0">490</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="THALASSERRY">
+  <data key="d0">699</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="ADICHERY">
+  <data key="d0">12</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="KANNUR HQ HOSP BUS STAND">
+  <data key="d0">673</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="ANJARAKANDY">
+  <data key="d0">632</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="CHAKKARAKKAL">
+  <data key="d0">629</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="PERALASSERY">
+  <data key="d0">116</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="NADUVIL THALIPARAMBA">
+  <data key="d0">35</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="PAYYANNUR">
+  <data key="d0">673</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="PAZHYANGADI">
+  <data key="d0">647</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="CHERUKUNNU THARA">
+  <data key="d0">479</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="ELAYAVOOR TEMPLE">
+  <data key="d0">101</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="KAMBIL">
+  <data key="d0">272</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="ANJAMPEEDIKA">
+  <data key="d0">136</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="KALLIASSERY">
+  <data key="d0">145</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="KOOTTUPUZHA">
+  <data key="d0">163</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="THAZHE CHOVVA">
+  <data key="d0">185</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="IRIKKUR">
+  <data key="d0">683</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="IRITTY">
+  <data key="d0">488</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="KEECHERI">
+  <data key="d0">207</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="KUTTIKKAKAM">
+  <data key="d0">210</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="CHALODE">
+  <data key="d0">386</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="NEERKADAVU">
+  <data key="d0">220</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="SREEKANDAPURAM BUS STAND">
+  <data key="d0">225</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="EDAKKEPURAM">
+  <data key="d0">280</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="CHEKKIKULAM">
+  <data key="d0">282</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="PAYYAVOOR">
+  <data key="d0">288</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="MANANTHAWADY STAND">
+  <data key="d0">312</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="CHERA">
+  <data key="d0">352</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="AZHEEKKAL">
+  <data key="d0">357</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="MUYYAM">
+  <data key="d0">358</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="DHARMASALA">
+  <data key="d0">358</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="KOZHIKODE CITY">
+  <data key="d0">359</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="VENGAD">
+  <data key="d0">376</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="CHELORA HSS">
+  <data key="d0">397</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="NIRANTHODE">
+  <data key="d0">408</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="KUDUKKIMOTTA">
+  <data key="d0">476</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="PAYYAMBALAM">
+  <data key="d0">478</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="BAKKALAM THALIPPARAMBA">
+  <data key="d0">485</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="KANNUR RAILWAT STATION">
+  <data key="d0">589</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="VADAKARA">
+  <data key="d0">610</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="TALIPARAMBA">
+  <data key="d0">699</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS STAND" target="KOODALI">
+  <data key="d0">739</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOZHIKKODE" target="PAYYANNUR">
+  <data key="d0">272</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOZHIKKODE" target="THALASSERRY">
+  <data key="d0">339</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MANIKKADAVU" target="IRITTY">
+  <data key="d0">143</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MANIKKADAVU" target="KOOTTUPUZHA">
+  <data key="d0">701</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KEEZHPALLY">
+  <data key="d0">690</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KAKKAYANGAD">
+  <data key="d0">744</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KOOMANTHODE">
+  <data key="d0">11</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KANNUR-THAVAKKARA BUS STAND">
+  <data key="d0">750</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KALLUVAYAL">
+  <data key="d0">546</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="IRIKKUR">
+  <data key="d0">671</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="SREEKANDAPURAM BUS STAND">
+  <data key="d0">22</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="PAYYAVOOR">
+  <data key="d0">432</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="PERAVOOR BUS STAND">
+  <data key="d0">738</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KOOTTUPUZHA">
+  <data key="d0">733</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KOLITHATTU">
+  <data key="d0">502</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="THALASSERRY">
+  <data key="d0">747</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="CHALODE">
+  <data key="d0">386</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="ADAKKATHODU">
+  <data key="d0">68</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KANNUUR">
+  <data key="d0">108</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="RANDAMKADAVU">
+  <data key="d0">735</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="ULIKKAL">
+  <data key="d0">569</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="VALLITHODE">
+  <data key="d0">177</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="MALOOR">
+  <data key="d0">158</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="MATTARA- ULIKKAL">
+  <data key="d0">158</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KEEZHPALLY- IRITTY">
+  <data key="d0">726</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="PARIPPUTHODU">
+  <data key="d0">188</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="ARALAM FARM">
+  <data key="d0">306</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="MANIKADAVU">
+  <data key="d0">596</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KOTTIYATTOOR">
+  <data key="d0">311</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="CHEDIKKULAM">
+  <data key="d0">715</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KOTTIYOOR BUS STAND">
+  <data key="d0">605</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KANNUR- THAVAKKARA BUS ST AND">
+  <data key="d0">410</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KAKKEYANGAD">
+  <data key="d0">410</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="ARALAM- IRITTY">
+  <data key="d0">744</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="PARIKKALAM">
+  <data key="d0">451</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KUDUKKIMOTTA">
+  <data key="d0">733</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="PERUMPUNNA">
+  <data key="d0">470</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="ADAKATHODE">
+  <data key="d0">488</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="VEERPAD- IRITTY">
+  <data key="d0">507</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="VALATHOD- IRITTY">
+  <data key="d0">694</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="CHATHIROOR">
+  <data key="d0">537</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="VANIYAPPARA">
+  <data key="d0">750</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="CHARAL">
+  <data key="d0">732</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KOTTIYOOR TEMPLE">
+  <data key="d0">685</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="THALASSERY">
+  <data key="d0">695</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="OORATHUR">
+  <data key="d0">701</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="KALANKI- ULIKKAL">
+  <data key="d0">713</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="PAYYANNUR">
+  <data key="d0">714</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="PAZHASSI DAM">
+  <data key="d0">715</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="PURALIMALA">
+  <data key="d0">726</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="MANAKKADAVU">
+  <data key="d0">755</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRITTY" target="URUPPUMKUTTY,">
+  <data key="d0">755</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KEEZHPALLY" target="CHATHIROOR">
+  <data key="d0">507</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KEEZHPALLY" target="PERAVOOR BUS STAND">
+  <data key="d0">179</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KEEZHPALLY" target="PARIPPUTHODU">
+  <data key="d0">427</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KEEZHPALLY" target="PUTHIYANGADI">
+  <data key="d0">500</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KEEZHPALLY" target="VEERPAD- IRITTY">
+  <data key="d0">507</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHATHIROOR" target="PAYYAVOOR">
+  <data key="d0">4</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHATHIROOR" target="MANIKADAVU">
+  <data key="d0">502</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYAVOOR" target="CHEMBERI">
+  <data key="d0">197</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYAVOOR" target="KUNNATHUR">
+  <data key="d0">23</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYAVOOR" target="ALAKODE">
+  <data key="d0">432</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYAVOOR" target="SREEKANDAPURAM BUS STAND">
+  <data key="d0">243</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYAVOOR" target="CHANDANAKAMPARA">
+  <data key="d0">380</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYAVOOR" target="BLATHUR">
+  <data key="d0">465</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYAVOOR" target="ALAKKODE">
+  <data key="d0">305</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYAVOOR" target="CHALADTHODE">
+  <data key="d0">315</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYAVOOR" target="SREEKANDAPURAM BUS ST AND">
+  <data key="d0">380</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYAVOOR" target="CHANDANAKKAMPARA">
+  <data key="d0">393</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYAVOOR" target="ETTUPARA">
+  <data key="d0">546</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYAVOOR" target="KUNNATHOOR PADI">
+  <data key="d0">623</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMBERI" target="KARUMANAKKAYAM">
+  <data key="d0">4</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMBERI" target="ETTUPARA">
+  <data key="d0">179</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMBERI" target="PULIKURUMBA">
+  <data key="d0">225</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMBERI" target="ERUVESSY">
+  <data key="d0">426</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="MELUR">
+  <data key="d0">10</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="THOTTUMMAL">
+  <data key="d0">718</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="ANJARAKANDY">
+  <data key="d0">17</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="MALOOR">
+  <data key="d0">31</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="PINARAYI">
+  <data key="d0">32</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="PERALASSERY">
+  <data key="d0">33</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KAYALODE">
+  <data key="d0">676</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KOLASSERI- THALASSERY">
+  <data key="d0">442</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="VADAKARA">
+  <data key="d0">748</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KANNUR-THAVAKKARA BUS STAND">
+  <data key="d0">724</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KOZHIKODE">
+  <data key="d0">306</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="NADAPURAM">
+  <data key="d0">512</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KOORARA- THALASSERY">
+  <data key="d0">58</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="MAMBARAM">
+  <data key="d0">678</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="ANDALOOR">
+  <data key="d0">388</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="PANOOR">
+  <data key="d0">702</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KIDANHI">
+  <data key="d0">317</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="PERAVOOR BUS STAND">
+  <data key="d0">365</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="PANUNDA- THALASSERY">
+  <data key="d0">90</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="VALLYAYI ROAD BUS ST OP">
+  <data key="d0">100</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KADAVATHUR- THALASSERY">
+  <data key="d0">195</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KARIYAD">
+  <data key="d0">341</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="THOTTILPALAM">
+  <data key="d0">132</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KAVIYOOR">
+  <data key="d0">141</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="VENGAD">
+  <data key="d0">284</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="CHOKLI">
+  <data key="d0">174</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="MAHEPALAM BUS STOP">
+  <data key="d0">174</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="MELOOR">
+  <data key="d0">748</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KANNUR BUS STAND">
+  <data key="d0">190</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="CHALODE">
+  <data key="d0">244</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="PANOOR- THALASSERY">
+  <data key="d0">259</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="MELUR- THALASSERY">
+  <data key="d0">269</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="MONTHAL">
+  <data key="d0">269</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="CHAKKARAKKAL">
+  <data key="d0">743</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="CHAMPAD">
+  <data key="d0">278</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="THAVAKKARA NEW BUS ST AND">
+  <data key="d0">326</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="PANTHAKKAPARA">
+  <data key="d0">350</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="MALAL">
+  <data key="d0">350</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KUTTYADI">
+  <data key="d0">396</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="THOTTADA">
+  <data key="d0">399</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="ANDALOOR KAVU,">
+  <data key="d0">549</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="PARAKKADAVU">
+  <data key="d0">442</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="EDAPPUZHA">
+  <data key="d0">451</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="MUDATHODE">
+  <data key="d0">677</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="PATHAYAKUNNU- THALASSERY">
+  <data key="d0">489</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="VALLAYI">
+  <data key="d0">501</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="MUNDATHODE">
+  <data key="d0">509</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="PARAMMEL SCHOOL">
+  <data key="d0">520</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KANNUR-THAVAKKARA BUS ST AND">
+  <data key="d0">550</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="MAHEPALAM">
+  <data key="d0">612</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KUTTIKKAKAM MUNAMBU">
+  <data key="d0">555</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="PERINGATHOOR">
+  <data key="d0">731</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="PARAPRAM-">
+  <data key="d0">603</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KODUVALLY">
+  <data key="d0">612</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KANNUR- THAVAKKARA BUS ST AND">
+  <data key="d0">697</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="MALABAR CANCER CENTER BUS STOP">
+  <data key="d0">720</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERRY" target="KUTTIYADI">
+  <data key="d0">731</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="CHAKKARAKKAL">
+  <data key="d0">743</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="ELAYAVOOR TEMPLE">
+  <data key="d0">7</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="KANNUR HQ HOSP BUS STAND">
+  <data key="d0">727</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="ANJARAKANDY">
+  <data key="d0">608</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="VALATHODE">
+  <data key="d0">29</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="CHALOD">
+  <data key="d0">51</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="CHALODE">
+  <data key="d0">68</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="PAZHYANGADI">
+  <data key="d0">751</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="PAYYANNUR">
+  <data key="d0">607</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="KUTTIKKAKAM">
+  <data key="d0">719</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="THALASSERY">
+  <data key="d0">554</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="IRIKKUR">
+  <data key="d0">734</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="KEEZHALLUR BUS STOP">
+  <data key="d0">313</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="MAMBARAM">
+  <data key="d0">749</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="KOZHIKODE">
+  <data key="d0">607</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="PAZHAYANADI">
+  <data key="d0">709</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="MATTOOL">
+  <data key="d0">424</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="KADACHIRA">
+  <data key="d0">436</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="VELLACHAL">
+  <data key="d0">443</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="KAKKAD">
+  <data key="d0">504</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="CHERUKUNNU THARA">
+  <data key="d0">560</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="KANNUR CITY BUS STOP">
+  <data key="d0">506</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="ATTADAPPA">
+  <data key="d0">557</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="MANANTHAVADY">
+  <data key="d0">689</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="VALIYANOOR">
+  <data key="d0">706</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS STAND" target="CHELORA HSS">
+  <data key="d0">734</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="ANJARAKANDY">
+  <data key="d0">739</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="PERALASSERY">
+  <data key="d0">377</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="KANNUR HQ HOSP BUS STAND">
+  <data key="d0">693</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="THALAVIL-CHALA">
+  <data key="d0">106</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="CHALA">
+  <data key="d0">716</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="CHALOD">
+  <data key="d0">600</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="MOONNUPERIYA">
+  <data key="d0">167</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="MAMBARAM">
+  <data key="d0">233</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="MUNDERIKADAVU">
+  <data key="d0">168</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="PALAYAM THATTARIPPALAM ROAD">
+  <data key="d0">215</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="CHALODE">
+  <data key="d0">301</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="KOYYODE">
+  <data key="d0">238</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="ATTADAPPA- KANNUR">
+  <data key="d0">335</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="ODAKKADAVU">
+  <data key="d0">418</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="THAVAKKARA NEW BUS ST AND">
+  <data key="d0">377</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="THAZHE CHOVVA">
+  <data key="d0">391</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="PODUVACHERY">
+  <data key="d0">392</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="KOODALI">
+  <data key="d0">739</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="THALAVIL">
+  <data key="d0">414</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="BURNASSERY">
+  <data key="d0">423</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="CHEMBILODE">
+  <data key="d0">452</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHAKKARAKKAL" target="IRIVERI">
+  <data key="d0">484</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="KEEZHALLUR BUS STOP">
+  <data key="d0">384</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="VENGAD">
+  <data key="d0">739</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="KEEZHATHUR">
+  <data key="d0">32</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="THAVAKKARA NEW BUS ST AND">
+  <data key="d0">36</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="MEDICAL COLLEGE, ANJARAKANDY">
+  <data key="d0">73</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="MAMBARAM">
+  <data key="d0">727</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="CHALODE">
+  <data key="d0">134</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="PERALASSERY">
+  <data key="d0">107</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="PATHIRIYAD- KUTHUPARAMB">
+  <data key="d0">173</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="VENGAD THERU">
+  <data key="d0">313</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="KANNUR-THAVAKKARA BUS ST AND">
+  <data key="d0">320</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="PANAYATHAMPARAMBA">
+  <data key="d0">326</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="MURINGERI">
+  <data key="d0">529</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="VALIYAVELICHAM">
+  <data key="d0">553</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="VENGADANGADI">
+  <data key="d0">608</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANJARAKANDY" target="KUTTIYADI">
+  <data key="d0">731</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KEEZHALLUR BUS STOP" target="IRIKKUR">
+  <data key="d0">730</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KANNADIPARA THALIPARAMBA">
+  <data key="d0">328</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="THAZHE CHOVVA">
+  <data key="d0">455</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KANDAKAI">
+  <data key="d0">13</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="NELLIKKAPALAM">
+  <data key="d0">18</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="CHALODE">
+  <data key="d0">361</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="PULLOOPPIKADAVU">
+  <data key="d0">693</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="AZHIKKAL FERRY">
+  <data key="d0">633</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KAYACHIRA">
+  <data key="d0">34</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KUTTIATTOOR L P SCHOOL">
+  <data key="d0">41</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="MALOTT">
+  <data key="d0">53</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KANNUR- THAVAKKARA BUS ST AND">
+  <data key="d0">64</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KUTTIKKAKAM">
+  <data key="d0">650</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KALLUKETTUCHIRA">
+  <data key="d0">67</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="MAYYIL">
+  <data key="d0">653</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KUTTIATTOOR PANCHAYATH">
+  <data key="d0">455</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KAVINCHAL">
+  <data key="d0">82</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="CHEKKIKKULAM">
+  <data key="d0">655</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KAKKARAPPALLY">
+  <data key="d0">86</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="PALLIPRAM">
+  <data key="d0">519</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KUTTIYATTOOR PANCHAYATH">
+  <data key="d0">653</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KOMAKKIRI">
+  <data key="d0">115</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="VARAM">
+  <data key="d0">124</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="MORAZHA">
+  <data key="d0">133</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="PALIYATH VALAPPU">
+  <data key="d0">160</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="THALAVIL-CHALA">
+  <data key="d0">167</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="NEERKADAVU">
+  <data key="d0">169</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="VADUVANKULAM">
+  <data key="d0">171</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KATTAMPALLY">
+  <data key="d0">181</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="MARAKKARKANDY STOP">
+  <data key="d0">564</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="AZHIKKAL LIGHT HOSE">
+  <data key="d0">199</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KANNUR RAILWAY STATION">
+  <data key="d0">394</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="THOTTADA">
+  <data key="d0">211</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="ADIKADALAYI- KANNUR">
+  <data key="d0">558</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="PAVANNUR KADAVU">
+  <data key="d0">217</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="CHERUKUNNU THARA">
+  <data key="d0">218</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="MUNDERIMOTTA">
+  <data key="d0">280</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="NIRANTHODE">
+  <data key="d0">230</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KOYYODE">
+  <data key="d0">238</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="AZHEEKKAL">
+  <data key="d0">745</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="PUTHIYATHERU">
+  <data key="d0">637</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="PANAYATHAMPARAMBA">
+  <data key="d0">374</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="MEENKADAV">
+  <data key="d0">275</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="VILLAGE MUKKU">
+  <data key="d0">275</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="PALLIPARAMBA">
+  <data key="d0">276</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="ORAPPADI">
+  <data key="d0">652</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="MULLAKODY">
+  <data key="d0">527</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="MADAKKARA">
+  <data key="d0">303</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="PALLIMUKKU">
+  <data key="d0">304</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KALLUKETTCHIRA">
+  <data key="d0">330</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="ATTADAPPA- KANNUR">
+  <data key="d0">335</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KANNUR CITY BUS STOP">
+  <data key="d0">344</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="VARAM KADAVU">
+  <data key="d0">364</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KOODALI">
+  <data key="d0">392</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KARINKALKUZHI">
+  <data key="d0">740</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="CHORAYAMKUNDU">
+  <data key="d0">400</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="BALAN KINAR">
+  <data key="d0">407</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="THALAVIL">
+  <data key="d0">414</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="EDAKKAITHODE">
+  <data key="d0">422</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="BURNASSERY">
+  <data key="d0">423</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="CHEMBILODE">
+  <data key="d0">452</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="SOUTH ELAYAVOOR TEMPLE">
+  <data key="d0">454</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KUNHIPALLY">
+  <data key="d0">638</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="SREEKANDAPURAM BUS STAND">
+  <data key="d0">481</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KOTTALIKKAVU">
+  <data key="d0">486</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KANNUR- THAVAKKARA BUS STAND">
+  <data key="d0">514</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KAKKAPPALLY">
+  <data key="d0">519</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="S N COLLEGE KANNUR">
+  <data key="d0">533</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="ANJAMPEEDIKA">
+  <data key="d0">536</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KUTTIKKAKAM MUNAMBU">
+  <data key="d0">660</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="CHELORA PERIKKALAM COLONY">
+  <data key="d0">558</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KOYYOTTPALAM">
+  <data key="d0">741</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="CHALOD">
+  <data key="d0">573</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="PARASSINIKADAVU BUS ST AND">
+  <data key="d0">573</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="MUBARAK JUNCTION">
+  <data key="d0">597</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KADANKODE">
+  <data key="d0">655</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="AADIKADALAYI">
+  <data key="d0">618</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KUNNUMKAIPALLI">
+  <data key="d0">618</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="DALIL PALL">
+  <data key="d0">634</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="ERANJIKADAVU">
+  <data key="d0">635</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KAMBIL">
+  <data key="d0">642</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="VALAPATTANAM">
+  <data key="d0">651</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="MALOTH- KANNUR">
+  <data key="d0">673</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS STAND" target="KANNUR-THAVAKKARA BUS ST AND">
+  <data key="d0">733</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAMBIL" target="KANNADIPARA THALIPARAMBA">
+  <data key="d0">8</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAMBIL" target="PULLOOPPIKADAVU">
+  <data key="d0">367</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAMBIL" target="PAVANNUR KADAVU">
+  <data key="d0">131</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAMBIL" target="KANNADIPARAMBA BUS STOP">
+  <data key="d0">276</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAMBIL" target="PALLIPARAMBA">
+  <data key="d0">276</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAMBIL" target="CHALODE">
+  <data key="d0">564</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAMBIL" target="MUBARAK JUNCTION">
+  <data key="d0">597</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAZHE CHOVVA" target="CHALA">
+  <data key="d0">80</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAZHE CHOVVA" target="PALAKKAD SWAMI MADAM">
+  <data key="d0">80</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAZHE CHOVVA" target="THEKKI BAZAR">
+  <data key="d0">125</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAZHE CHOVVA" target="MARAKKARKANDY STOP">
+  <data key="d0">194</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAZHE CHOVVA" target="SOUTH BAZAR">
+  <data key="d0">251</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAZHE CHOVVA" target="AZHIKKAL FERRY">
+  <data key="d0">394</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAZHE CHOVVA" target="CHALAD HOSPITAL">
+  <data key="d0">627</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAKKAYANGAD" target="PERAVOOR BUS STAND">
+  <data key="d0">265</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAKKAYANGAD" target="THILLANKERI">
+  <data key="d0">695</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAKKAYANGAD" target="KOOTTUPUZHA">
+  <data key="d0">738</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THOTTUMMAL" target="THOTTILPALAM">
+  <data key="d0">141</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THOTTUMMAL" target="MAHEPALAM BUS STOP">
+  <data key="d0">539</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THOTTUMMAL" target="KANNUR-THAVAKKARA BUS ST AND">
+  <data key="d0">550</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THOTTUMMAL" target="KAYALODE">
+  <data key="d0">718</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAZHOOR" target="NADUVIL THALIPARAMBA">
+  <data key="d0">35</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAZHOOR" target="TALIPARAMBA">
+  <data key="d0">138</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM BUS STAND" target="MAYYIL">
+  <data key="d0">481</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM BUS STAND" target="BLATHUR">
+  <data key="d0">473</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM BUS STAND" target="IRIKKUR">
+  <data key="d0">526</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM BUS STAND" target="KANHILERI">
+  <data key="d0">231</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM BUS STAND" target="TALIPARAMBA">
+  <data key="d0">334</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM BUS STAND" target="CHANDANAKAMPARA">
+  <data key="d0">415</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM BUS STAND" target="CHANDANAKKAMPARA">
+  <data key="d0">666</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SREEKANDAPURAM BUS STAND" target="ADUVAPPURAM">
+  <data key="d0">683</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="ADICHERY">
+  <data key="d0">12</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="CHALODE">
+  <data key="d0">642</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="KANNUR- THAVAKKARA BUS ST AND">
+  <data key="d0">64</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="KANDAKAI">
+  <data key="d0">573</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="CHALOD">
+  <data key="d0">115</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="KUTTIATTOOR PANCHAYATH">
+  <data key="d0">383</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="PAVANNUR KADAVU">
+  <data key="d0">297</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="CHOOLIYAD">
+  <data key="d0">282</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="NIRANTHODE">
+  <data key="d0">653</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="MAYYIL V O">
+  <data key="d0">196</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="PARASSINIKADAVU BUS ST AND">
+  <data key="d0">553</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="PAZHASSI PALLI">
+  <data key="d0">198</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="CHEKKIKULAM">
+  <data key="d0">228</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="ORAVAYAL">
+  <data key="d0">230</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="KORALAI">
+  <data key="d0">277</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="ORAPPADI">
+  <data key="d0">527</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="POROLAM">
+  <data key="d0">354</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="KARINKALKUZHI">
+  <data key="d0">740</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="MULLAKODY">
+  <data key="d0">395</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="KUTTIYATTOOR PANCHAYATH">
+  <data key="d0">402</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="CHEKKIKKULAM">
+  <data key="d0">402</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="MALAPATTAM- SREEKANDAPURAM">
+  <data key="d0">515</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="SREEKANDAPURAM BUS ST AND">
+  <data key="d0">583</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="THAYAMPOYIL">
+  <data key="d0">583</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAYYIL" target="THAVAROOL">
+  <data key="d0">671</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANDAKAI" target="KARINKALKUZHI">
+  <data key="d0">573</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALATHUPARAMBA" target="KALLUVAYAL">
+  <data key="d0">14</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KALLUVAYAL" target="PARIPPUTHODU">
+  <data key="d0">427</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KALLUVAYAL" target="ULIKKAL">
+  <data key="d0">569</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KALLUVAYAL" target="PAZHASSI DAM">
+  <data key="d0">715</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="THAVAKKARA NEW BUS ST AND">
+  <data key="d0">36</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="BLATHUR">
+  <data key="d0">465</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="CHALOD">
+  <data key="d0">115</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="MAMANAM TEMPLE">
+  <data key="d0">729</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="MANNUR">
+  <data key="d0">320</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="PERUVALATHUPARAMBA- IRIKKUR">
+  <data key="d0">152</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="CHOOLIYAD">
+  <data key="d0">186</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="SIVAPURAM- THALASSERY">
+  <data key="d0">206</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="PORORA">
+  <data key="d0">206</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="CHALODE">
+  <data key="d0">212</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="CHEKKIKULAM">
+  <data key="d0">282</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="ADUVAPPURAM">
+  <data key="d0">683</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="MAMAMNAM">
+  <data key="d0">325</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="KUTTAV">
+  <data key="d0">385</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="NIRANTHODE">
+  <data key="d0">530</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="CHOLA ROAD">
+  <data key="d0">530</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="OORATHUR">
+  <data key="d0">701</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="CHEDIKKULAM">
+  <data key="d0">715</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="MANIKADAVU">
+  <data key="d0">726</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRIKKUR" target="VEMBADI">
+  <data key="d0">730</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERUMPADAVU" target="PAYYANNUR">
+  <data key="d0">15</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERUMPADAVU" target="MATHAMANGALAM BAZ AR">
+  <data key="d0">742</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="ERIAM">
+  <data key="d0">20</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PADENA">
+  <data key="d0">24</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="ETTIKULAM">
+  <data key="d0">329</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KANHANGAD">
+  <data key="d0">703</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="THIMIRI">
+  <data key="d0">496</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="CHERUPUZHA">
+  <data key="d0">704</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PULINGOME">
+  <data key="d0">72</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PALAKOD- PAYYANNUR">
+  <data key="d0">214</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PAZHYANGADI">
+  <data key="d0">439</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="MATHAMANGALAM">
+  <data key="d0">495</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="THOTTAMKADAVU">
+  <data key="d0">95</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="SN TEMPLE">
+  <data key="d0">110</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PAZHAYANADI">
+  <data key="d0">710</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KUNHIMANGALAM">
+  <data key="d0">445</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PILATHARA BUS STAND">
+  <data key="d0">742</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="VELLORA- MATHAMANGALAM">
+  <data key="d0">189</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PADANNA">
+  <data key="d0">488</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="THOTAMKADAVU">
+  <data key="d0">208</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PERINGOME">
+  <data key="d0">208</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KAKKARA- MATHAMANGALAM">
+  <data key="d0">254</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PUTHIYANGADI">
+  <data key="d0">506</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="THRIKARIPUR">
+  <data key="d0">270</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KAKKARA">
+  <data key="d0">475</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="OLAYAMBADI- MATHAMANGALAM">
+  <data key="d0">323</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="RAMANTHALI NAVAL GATE">
+  <data key="d0">329</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="RAMANTHALI - PAYYANNUR">
+  <data key="d0">580</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KANHAGAD">
+  <data key="d0">359</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KANHANGAD BUS STNAD">
+  <data key="d0">382</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="ERAMAM">
+  <data key="d0">405</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PUTHIYAPUZHAKKARA">
+  <data key="d0">409</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="MUTTAM">
+  <data key="d0">419</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="CHERUVATHUR">
+  <data key="d0">439</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KADANNAPPALLI">
+  <data key="d0">441</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="NHEKLY">
+  <data key="d0">441</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PALAKKODE">
+  <data key="d0">445</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KALISWARAM">
+  <data key="d0">468</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="THIRUMENI">
+  <data key="d0">505</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="MUKKOD">
+  <data key="d0">544</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PURAKKUNNU">
+  <data key="d0">544</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KADUKKARAM BUS STOP">
+  <data key="d0">565</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KALIKADAVU">
+  <data key="d0">570</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KOZHICHAL">
+  <data key="d0">616</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PAYYANUR COLLEGE">
+  <data key="d0">571</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="CHALA">
+  <data key="d0">579</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="MANIYARA">
+  <data key="d0">580</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="PAYYANNUR RAILWAY STATION">
+  <data key="d0">606</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KANNUR-THAVAKKARA BUS ST AND">
+  <data key="d0">625</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="MULLOOL- THALIPARAMBA">
+  <data key="d0">649</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="CHERUKUNNU THARA">
+  <data key="d0">674</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KARA">
+  <data key="d0">709</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="ALAKODE">
+  <data key="d0">714</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAYYANNUR" target="KARYAPPALLI">
+  <data key="d0">742</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERALASSERY" target="CHALA">
+  <data key="d0">107</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERALASSERY" target="KANNUR HQ HOSP BUS ST AND">
+  <data key="d0">377</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERALASSERY" target="C H MUKK">
+  <data key="d0">549</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERALASSERY" target="MAMBARAM">
+  <data key="d0">718</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUDAPATHUR" target="VANNATHIMOOLA">
+  <data key="d0">388</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEKKIKKULAM" target="NELLIKKAPALAM">
+  <data key="d0">18</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEKKIKKULAM" target="KUTTIATTOOR PANCHAYATH">
+  <data key="d0">655</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEKKIKKULAM" target="KAVINCHAL">
+  <data key="d0">82</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEKKIKKULAM" target="CHALODE">
+  <data key="d0">609</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEKKIKKULAM" target="MUNDERIMOTTA">
+  <data key="d0">229</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEKKIKKULAM" target="KARINKALKUZHI">
+  <data key="d0">573</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEKKIKKULAM" target="CHALOD">
+  <data key="d0">573</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEKKIKKULAM" target="THAYAMPOYIL">
+  <data key="d0">583</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEKKIKKULAM" target="KANNUR HQ HOSP BUS ST AND">
+  <data key="d0">583</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEKKIKKULAM" target="KUTTIYATTOOR PANCHAYATH">
+  <data key="d0">653</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMBA TALUK HOSP STOP" target="BAVUPARAMBA">
+  <data key="d0">19</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMBA TALUK HOSP STOP" target="MULLOOL">
+  <data key="d0">628</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMBA TALUK HOSP STOP" target="PAZHAYANADI">
+  <data key="d0">628</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ERIAM" target="THERANDY">
+  <data key="d0">588</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOYYAM" target="PAZHYANGADI">
+  <data key="d0">237</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VADANKAVALA" target="KUNNATHUR">
+  <data key="d0">23</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PADICHAL" target="PADENA">
+  <data key="d0">24</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PADICHAL" target="VALLIPILAVU">
+  <data key="d0">83</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PADICHAL" target="CHERUPUZHA">
+  <data key="d0">323</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PADICHAL" target="PADANNA">
+  <data key="d0">191</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PADICHAL" target="OLAYAMBADI- MATHAMANGALAM">
+  <data key="d0">323</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PADICHAL" target="NHEKLY">
+  <data key="d0">594</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ETTIKULAM" target="RAMANTHALI - PAYYANNUR">
+  <data key="d0">191</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ETTIKULAM" target="PALAKOD- PAYYANNUR">
+  <data key="d0">294</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ETTIKULAM" target="PAZHYANGADI">
+  <data key="d0">366</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ETTIKULAM" target="PALAKKOD">
+  <data key="d0">424</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ETTIKULAM" target="PALAKKODE">
+  <data key="d0">445</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="RAMANTHALI - PAYYANNUR" target="OLAYAMBADI- MATHAMANGALAM">
+  <data key="d0">307</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="RAMANTHALI - PAYYANNUR" target="PUTHIYAPUZHAKKARA">
+  <data key="d0">409</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="RAMANTHALI - PAYYANNUR" target="PALAKOD- PAYYANNUR">
+  <data key="d0">460</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="RAMANTHALI - PAYYANNUR" target="RAMANTHALI NAVAL GATE">
+  <data key="d0">565</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUVANCHERY" target="PANOOR">
+  <data key="d0">273</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUVANCHERY" target="KARYATTUPURAM">
+  <data key="d0">528</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUVANCHERY" target="CHENDAYAD">
+  <data key="d0">640</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUVANCHERY" target="MARAPPALAM">
+  <data key="d0">657</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VENGAD" target="VENGAD THERU">
+  <data key="d0">511</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANAYATHAMPARAMBA" target="CHALODE">
+  <data key="d0">326</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHALODE" target="KUTTIYATTOOR PANCHAYATH">
+  <data key="d0">196</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHALODE" target="PAVANNUR KADAVU">
+  <data key="d0">131</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHALODE" target="NIRANTHODE">
+  <data key="d0">166</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHALODE" target="KUTTIATTOOR PANCHAYATH">
+  <data key="d0">383</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHALODE" target="CHORAYAMKUNDU">
+  <data key="d0">400</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHALODE" target="MUNDERIMOTTA">
+  <data key="d0">609</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHALODE" target="CHOLA ROAD">
+  <data key="d0">530</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHALODE" target="CHERUVATHALAMOTTA">
+  <data key="d0">645</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOLAYAD" target="PERAVOOR BUS STAND">
+  <data key="d0">28</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOLAYAD" target="CHEMBUKKAV">
+  <data key="d0">284</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="ANAKUZHI">
+  <data key="d0">308</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="MALOOR">
+  <data key="d0">508</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="KOTTIYOOR BUS STAND">
+  <data key="d0">503</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="KOTTIYATTOOR">
+  <data key="d0">55</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="PURALIMALA">
+  <data key="d0">726</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="ADAKKATHODU">
+  <data key="d0">108</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="KOLAKKAD">
+  <data key="d0">738</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="KELAKAM">
+  <data key="d0">682</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="AMBAYATHODE">
+  <data key="d0">720</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="NEDUMPOYIL">
+  <data key="d0">281</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="ADAKKATHOD- IRITTY">
+  <data key="d0">314</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="KOTTIYUR">
+  <data key="d0">746</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="VALATHOD- IRITTY">
+  <data key="d0">518</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="KOTTIYUR TEMPLE">
+  <data key="d0">552</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="THUDIMARAM">
+  <data key="d0">596</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="POOLAKUTTY- IRITTY">
+  <data key="d0">726</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="VAYANNUR">
+  <data key="d0">631</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="KANNAVAM">
+  <data key="d0">682</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="KOTTIYOOR TEMPLE">
+  <data key="d0">685</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="MANGOOTTAM">
+  <data key="d0">694</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERAVOOR BUS STAND" target="KOOTTUPUZHA">
+  <data key="d0">701</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANAKUZHI" target="MAMPOYIL">
+  <data key="d0">102</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANAKUZHI" target="MANAKKADAVU">
+  <data key="d0">102</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PULLOOPPIKADAVU" target="KAKAD">
+  <data key="d0">105</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PULLOOPPIKADAVU" target="KALLUKETTUCHIRA">
+  <data key="d0">194</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PULLOOPPIKADAVU" target="MALOTT">
+  <data key="d0">613</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PULLOOPPIKADAVU" target="AZHIKKAL FERRY">
+  <data key="d0">633</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MALOOR" target="THRIKADARIPPOYIL">
+  <data key="d0">631</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MALOOR" target="VAYANNUR">
+  <data key="d0">631</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PINARAYI" target="KAYALODE">
+  <data key="d0">32</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAYALODE" target="MAMBARAM">
+  <data key="d0">718</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMBARAM" target="KEEZHATHUR">
+  <data key="d0">32</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMBARAM" target="PARAPRAM-">
+  <data key="d0">271</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMBARAM" target="ODAKKADAVU">
+  <data key="d0">375</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMBARAM" target="ANDALOOR">
+  <data key="d0">388</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMBARAM" target="PERALASSERY TEMPLE">
+  <data key="d0">436</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="AZHIKKAL FERRY" target="KANNUR RAILWAY STATION">
+  <data key="d0">209</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="AZHIKKAL FERRY" target="KANNUR HQ HOSP BUS ST AND">
+  <data key="d0">295</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="AZHIKKAL FERRY" target="PUTHIYATHERU">
+  <data key="d0">295</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="AZHIKKAL FERRY" target="VALAPATTANAM">
+  <data key="d0">651</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAYACHIRA" target="PALLIPARAMBA">
+  <data key="d0">34</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NADUVIL THALIPARAMBA" target="KARUVANCHAL BUS STOP">
+  <data key="d0">97</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS ST AND" target="CHERUKUNNU THARA">
+  <data key="d0">264</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS ST AND" target="PAZHYANGADI">
+  <data key="d0">76</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS ST AND" target="KALLOORIKADAVU">
+  <data key="d0">135</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS ST AND" target="KANNUR HQ HOSP BUS ST AND">
+  <data key="d0">377</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS ST AND" target="THALIPARAMB BUS ST AND">
+  <data key="d0">380</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS ST AND" target="BAVUPARAMBA- PARASSINI STOP">
+  <data key="d0">252</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVAKKARA NEW BUS ST AND" target="MULLOOL- THALIPARAMBA">
+  <data key="d0">380</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="BLATHUR" target="KOSAVANVAYAL">
+  <data key="d0">267</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUDIYANMALA" target="KARUVANCHAL BUS STOP">
+  <data key="d0">516</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOTTIYOOR BUS STAND" target="PALCHURAM">
+  <data key="d0">342</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOTTIYOOR BUS STAND" target="THULLANPARA ROAD">
+  <data key="d0">365</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOTTIYOOR BUS STAND" target="KOOTTUPUZHA">
+  <data key="d0">605</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALATHATTU" target="KALIKADAVU">
+  <data key="d0">39</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KALIKADAVU" target="THERTHALLY">
+  <data key="d0">39</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KALIKADAVU" target="PANANGATTOOR">
+  <data key="d0">390</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THERTHALLY" target="ALAKODE">
+  <data key="d0">515</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THERTHALLY" target="CHERUPUZHA">
+  <data key="d0">127</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALAKODE" target="MANAKKADAVU">
+  <data key="d0">615</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALAKODE" target="CHERUPUZHA">
+  <data key="d0">714</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALAKODE" target="KARUVANCHAL BUS STOP">
+  <data key="d0">516</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALAKODE" target="MOONAMKUNNU">
+  <data key="d0">516</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALAKODE" target="THALIPARA">
+  <data key="d0">216</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALAKODE" target="THALIPARAMB BUS ST AND">
+  <data key="d0">515</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALAKODE" target="ARIVILANJAPOYIL- ALAKODE">
+  <data key="d0">541</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALAKODE" target="KAPPIMALA">
+  <data key="d0">725</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALAKODE" target="PARAPPA ALAKODE">
+  <data key="d0">563</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALAKODE" target="UDAYAGIRI ALAKODE">
+  <data key="d0">699</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALAKODE" target="TALIPARAMBA">
+  <data key="d0">699</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ALAKODE" target="KARUVANCHAL,">
+  <data key="d0">722</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANHANGAD" target="KASARAGOD">
+  <data key="d0">703</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTTIATTOOR L P SCHOOL" target="KARARAMBA">
+  <data key="d0">304</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="MUTTAM">
+  <data key="d0">157</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="CHERUKUNNU THARA">
+  <data key="d0">544</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="MATTOOL CENTRAL">
+  <data key="d0">54</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="PUTHIYANGADI">
+  <data key="d0">649</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="KUNHIMANGALAM">
+  <data key="d0">111</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="MATTOOL">
+  <data key="d0">672</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="PILATHARA BUS STAND">
+  <data key="d0">544</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="PERINGOME">
+  <data key="d0">208</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="THALIPARAMB BUS ST AND">
+  <data key="d0">237</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="KEEZHARA">
+  <data key="d0">253</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="CHEMBALLIKUND">
+  <data key="d0">294</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="PUTHIYANGADI BEACH">
+  <data key="d0">462</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="CHERUKUNNU TEMPLE">
+  <data key="d0">649</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHYANGADI" target="MATOOL">
+  <data key="d0">751</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUTTAM" target="PALAKOD- PAYYANNUR">
+  <data key="d0">76</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUTTAM" target="BEACH ROAD">
+  <data key="d0">157</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUTTAM" target="PUTHIYANGADI">
+  <data key="d0">419</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUTTAM" target="MOOLAKKEEL KADAVU">
+  <data key="d0">688</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUTTAM" target="NAVAL ACADEMY">
+  <data key="d0">688</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOOTTUPUZHA" target="VIRAJPETTA">
+  <data key="d0">103</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOOTTUPUZHA" target="KANNUR BUS STAND">
+  <data key="d0">103</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOOTTUPUZHA" target="THOTTILPALAM">
+  <data key="d0">183</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VADAKARA" target="PANOOR">
+  <data key="d0">299</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VADAKARA" target="MAHEPALAM BUS STOP">
+  <data key="d0">539</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VADAKARA" target="MALAL">
+  <data key="d0">350</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VADAKARA" target="THALASSERY">
+  <data key="d0">406</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="MATTOOL">
+  <data key="d0">76</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="PUTHIYANGADI">
+  <data key="d0">710</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="MOTTAMMAL UPS">
+  <data key="d0">98</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="KEEZHARA">
+  <data key="d0">664</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="PAZHAYANADI">
+  <data key="d0">506</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="MADAKKARA">
+  <data key="d0">303</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="KACHERITHARA">
+  <data key="d0">656</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="MORAZHA">
+  <data key="d0">150</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="CHERA">
+  <data key="d0">352</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="EDAKKEPURAM">
+  <data key="d0">324</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="KEECHERI">
+  <data key="d0">207</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="THALIPARAMB BUS ST AND">
+  <data key="d0">324</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="MAZHOOR TEMPLE">
+  <data key="d0">404</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="KANNUR-THAVAKKARA BUS ST AND">
+  <data key="d0">419</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="ANJAMPEEDIKA">
+  <data key="d0">420</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="MORAZHA CENTRAL">
+  <data key="d0">440</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="THEKKUMBADKAD">
+  <data key="d0">461</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="ANJAMPEEIKA">
+  <data key="d0">560</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUKUNNU THARA" target="THEKKUMBAD">
+  <data key="d0">648</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTOOL CENTRAL" target="PUTHIYANGADI">
+  <data key="d0">54</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PUTHIYANGADI" target="PUTHIYANGADI BEACH">
+  <data key="d0">460</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PUTHIYANGADI" target="MATTOOL">
+  <data key="d0">521</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PUTHIYANGADI" target="PAZHAYANADI">
+  <data key="d0">754</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PUTHIYANGADI" target="CHERUKUNNU TEMPLE">
+  <data key="d0">257</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PUTHIYANGADI" target="PILATHARA BUS STAND">
+  <data key="d0">264</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PUTHIYANGADI" target="CHOOTTAD">
+  <data key="d0">286</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PUTHIYANGADI" target="PATTUVAM">
+  <data key="d0">298</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PUTHIYANGADI" target="DHARMASALA">
+  <data key="d0">456</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PUTHIYANGADI" target="KOTTAKKEEL KADAVU">
+  <data key="d0">521</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOZHIKODE" target="KANNUR- THAVAKKARA BUS ST AND">
+  <data key="d0">429</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOZHIKODE" target="POOVATTUPARAMBA">
+  <data key="d0">578</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOZHIKODE" target="KANNUR-THAVAKKARA BUS ST AND">
+  <data key="d0">625</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOZHIKODE" target="THALASSERY">
+  <data key="d0">690</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NADAPURAM" target="VILANGAD">
+  <data key="d0">373</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NADAPURAM" target="KUTTYADI">
+  <data key="d0">141</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NADAPURAM" target="PANOOR">
+  <data key="d0">595</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NADAPURAM" target="VALAYAM">
+  <data key="d0">442</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NADAPURAM" target="PARAKKADAVU">
+  <data key="d0">442</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NADAPURAM" target="KALLACHIL">
+  <data key="d0">512</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NADAPURAM" target="CHETTAKANDY">
+  <data key="d0">566</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NADAPURAM" target="CHUZHALI">
+  <data key="d0">702</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KADAVATHUR" target="PANOOR">
+  <data key="d0">100</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KADAVATHUR" target="ERANHEENTAKEEZHIL">
+  <data key="d0">100</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KADAVATHUR" target="CHENDAYAD">
+  <data key="d0">203</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="KOORARA- THALASSERY">
+  <data key="d0">58</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="VILAKKOTOOR">
+  <data key="d0">75</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="VILAKKOTTUR">
+  <data key="d0">494</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="CHENDAYAD">
+  <data key="d0">640</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="KAIVELIKKAL- THALASSERY">
+  <data key="d0">260</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="CHAMPAD">
+  <data key="d0">278</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="POYILOOR">
+  <data key="d0">293</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="NILLANGAL">
+  <data key="d0">363</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="CHAMATHAKKAD">
+  <data key="d0">430</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="VATAKARA">
+  <data key="d0">517</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="PARAMMEL SCHOOL">
+  <data key="d0">520</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="KALLIKANDY- THALASSERY">
+  <data key="d0">550</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="CHETTAKANDY">
+  <data key="d0">566</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="PERINGATHOOR">
+  <data key="d0">582</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="CHENDAYAD- THALASSERY">
+  <data key="d0">643</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="C POYILOOR">
+  <data key="d0">691</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="THALASSERY">
+  <data key="d0">691</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PANOOR" target="PARAKKADAVU">
+  <data key="d0">702</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ANDALOOR" target="C.H MUKKU">
+  <data key="d0">271</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAYYENI" target="PULINGOME">
+  <data key="d0">708</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PULINGOME" target="CHERUPUZHA">
+  <data key="d0">708</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PULINGOME" target="KOZHICHAL">
+  <data key="d0">139</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PULINGOME" target="RAJAGIRI- ALAKODE">
+  <data key="d0">593</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUPUZHA" target="PARAPPA ALAKODE">
+  <data key="d0">144</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUPUZHA" target="MARUTHUMPADI">
+  <data key="d0">261</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUPUZHA" target="VELLARIKUNDU">
+  <data key="d0">305</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUPUZHA" target="ALAKKODE">
+  <data key="d0">305</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUPUZHA" target="THATTUMMAL- CHERUPUZHA">
+  <data key="d0">323</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUPUZHA" target="THIRUMENI">
+  <data key="d0">505</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUPUZHA" target="PANATHUR">
+  <data key="d0">714</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUPUZHA" target="CHITTARIKKAL">
+  <data key="d0">505</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUPUZHA" target="MANAKKADAVU">
+  <data key="d0">599</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUPUZHA" target="KOZHICHAL">
+  <data key="d0">704</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERUPUZHA" target="PILATHARA BUS STAND">
+  <data key="d0">708</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MANIKADAVU" target="PURALIMALA">
+  <data key="d0">63</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MANIKADAVU" target="MATTARA- ULIKKAL">
+  <data key="d0">177</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MANIKADAVU" target="ARALAM- IRITTY">
+  <data key="d0">507</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MANIKADAVU" target="KANJIRAKOLLI">
+  <data key="d0">537</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MANIKADAVU" target="THUDIMARAM">
+  <data key="d0">596</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MANIKADAVU" target="KEEZHPALLY- IRITTY">
+  <data key="d0">726</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOLITHATTU" target="KEEZHPALLY- IRITTY">
+  <data key="d0">177</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR- THAVAKKARA BUS ST AND" target="PAZHAYANADI">
+  <data key="d0">492</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR- THAVAKKARA BUS ST AND" target="PARASSINIKADAVU BUS ST AND">
+  <data key="d0">553</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KALLUKETTUCHIRA" target="KUTTIKKAKAM MUNAMBU">
+  <data key="d0">194</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KALLUKETTUCHIRA" target="PULLOOPP BUS STOP">
+  <data key="d0">707</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ADAKKATHODU" target="KELAKAM">
+  <data key="d0">670</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ADAKKATHODU" target="SANTHIGIRI">
+  <data key="d0">670</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARATT" target="KALLIKANDY- THALASSERY">
+  <data key="d0">71</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KALLIKANDY- THALASSERY" target="KADAVATHUR- THALASSERY">
+  <data key="d0">195</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KALLIKANDY- THALASSERY" target="CENTRAL POYILOOR">
+  <data key="d0">550</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PODIKKALAM" target="C.POYILOOR">
+  <data key="d0">75</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="C.POYILOOR" target="VILAKKOTOOR">
+  <data key="d0">75</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTOOL" target="PUTHIYANGADI BEACH">
+  <data key="d0">460</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTOOL" target="MADAKKARA">
+  <data key="d0">111</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTOOL" target="AYYOT H">
+  <data key="d0">324</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTOOL" target="PAZHAYANADI">
+  <data key="d0">576</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTOOL" target="EZHOME">
+  <data key="d0">492</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PALAKOD- PAYYANNUR" target="CHEMBALLIKUND">
+  <data key="d0">294</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMANAM TEMPLE" target="MANNUR">
+  <data key="d0">729</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MANNUR" target="MANAKKAI">
+  <data key="d0">729</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHALA" target="KADUKKARAM BUS STOP">
+  <data key="d0">579</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHALA" target="THALASSERY">
+  <data key="d0">716</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PALAKKAD SWAMI MADAM" target="ADIKADALAYI- KANNUR">
+  <data key="d0">80</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ADIKADALAYI- KANNUR" target="TALAP">
+  <data key="d0">211</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ADIKADALAYI- KANNUR" target="KANNUR HQ HOSP BUS ST AND">
+  <data key="d0">211</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ADIKADALAYI- KANNUR" target="KUNNUMKAI- KANNUR">
+  <data key="d0">346</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ADIKADALAYI- KANNUR" target="KUNHIPALLY">
+  <data key="d0">558</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ADIKADALAYI- KANNUR" target="KUNNUMKAIPAL">
+  <data key="d0">675</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTTIATTOOR PANCHAYATH" target="KOMAKKIRI">
+  <data key="d0">115</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTTIATTOOR PANCHAYATH" target="PAVANOORMOTTA BUS STOP">
+  <data key="d0">413</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="POTHAMKANDAM" target="VALLIPILAVU">
+  <data key="d0">83</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAPPIMALA" target="MOORIKADAVU">
+  <data key="d0">87</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAPPIMALA" target="MAVUMTHATTU">
+  <data key="d0">725</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MOORIKADAVU" target="MANAKKADAVU">
+  <data key="d0">599</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MANAKKADAVU" target="CHEEKKAD- ALAKODE">
+  <data key="d0">615</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MANAKKADAVU" target="KANJIRAKOLLI">
+  <data key="d0">755</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUTHUKUDA- THALIPARAMBA" target="KAVINMUNAMBU">
+  <data key="d0">253</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUTHUKUDA- THALIPARAMBA" target="PATTUVAM">
+  <data key="d0">253</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTTIYATTOOR PANCHAYATH" target="MAYYIL V O">
+  <data key="d0">196</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTTIYATTOOR PANCHAYATH" target="PAVANNUR KADAVU">
+  <data key="d0">652</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ARAYANGAD" target="EDAYAR - KUTHUPARAMB">
+  <data key="d0">93</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATHAMANGALAM" target="OLAYAMBADI- MATHAMANGALAM">
+  <data key="d0">208</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATHAMANGALAM" target="THOTAMKADAVU">
+  <data key="d0">208</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATHAMANGALAM" target="ERAMAM- MATHAMANGALAM">
+  <data key="d0">307</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATHAMANGALAM" target="ERAMAM">
+  <data key="d0">405</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATHAMANGALAM" target="PURAKKUNNU">
+  <data key="d0">544</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATHAMANGALAM" target="PILATHARA BUS STAND">
+  <data key="d0">704</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATHAMANGALAM" target="THAVIDISSERI">
+  <data key="d0">704</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THOTTAMKADAVU" target="PILATHARA BUS STAND">
+  <data key="d0">95</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THOTTAMKADAVU" target="MANIYARA">
+  <data key="d0">580</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PILATHARA BUS STAND" target="PARIYARAM MEDICAL COLLEGE">
+  <data key="d0">264</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PILATHARA BUS STAND" target="NHEKLY">
+  <data key="d0">594</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PILATHARA BUS STAND" target="PERUMBADAVU">
+  <data key="d0">663</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PILATHARA BUS STAND" target="MATHAMANGALAM BAZ AR">
+  <data key="d0">742</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KEEZHARA" target="THALIPARAMB BUS ST AND">
+  <data key="d0">98</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KEEZHARA" target="THOTTEEKKAL">
+  <data key="d0">253</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS ST AND" target="VELLAVU">
+  <data key="d0">98</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS ST AND" target="PARASSINIKADAVU BUS ST AND">
+  <data key="d0">196</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS ST AND" target="PARIYARAM MEDICAL COLLEGE">
+  <data key="d0">427</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS ST AND" target="MORAZHA">
+  <data key="d0">237</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS ST AND" target="PATTUVAM">
+  <data key="d0">253</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS ST AND" target="THOTTEEKKAL">
+  <data key="d0">253</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS ST AND" target="KURUMATHUR">
+  <data key="d0">324</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS ST AND" target="SREEKANDAPURAM BUS ST AND">
+  <data key="d0">380</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALIPARAMB BUS ST AND" target="KANNUR- THAVAKKARA BUS STAND">
+  <data key="d0">551</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VELLAVU" target="MUTHUKUDA">
+  <data key="d0">98</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUTHUKUDA" target="IRINGAL">
+  <data key="d0">98</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUTHUKUDA" target="CHANDANAKAMPARA">
+  <data key="d0">380</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUTHUKUDA" target="KANNAPPILAVU BUS STOP">
+  <data key="d0">461</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUTHUKUDA" target="PATTUVAM">
+  <data key="d0">664</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IRINGAL" target="VELLIKEEL">
+  <data key="d0">98</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VELLIKEEL" target="THIRUVATTOOR">
+  <data key="d0">479</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VELLIKEEL" target="ANJAMPEEDIKA">
+  <data key="d0">536</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHALAT TEMPLE" target="MARAKKARKANDY STOP">
+  <data key="d0">99</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUTTA" target="VIRAJPETTA">
+  <data key="d0">103</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHAYANADI" target="PALAKKOD">
+  <data key="d0">424</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHAYANADI" target="PATTUVAM">
+  <data key="d0">587</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHAYANADI" target="NERUVAMBRAM">
+  <data key="d0">628</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHAYANADI" target="KANNUR-THAVAKKARA BUS ST AND">
+  <data key="d0">646</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAZHAYANADI" target="MOOLAKKEEL KADAVU">
+  <data key="d0">688</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MADAKKARA" target="KACHERITHARA">
+  <data key="d0">138</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MADAKKARA" target="CHERUVATHUR">
+  <data key="d0">439</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MADAKKARA" target="IRINAVE ROAD">
+  <data key="d0">646</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUNHIMANGALAM" target="PUTHIYAPUZHAKKARA">
+  <data key="d0">445</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHANDANAKAMPARA" target="ULIKKAL">
+  <data key="d0">234</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHANDANAKAMPARA" target="VANCHIYAM">
+  <data key="d0">285</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IDUMBA" target="THRIKADARIPPOYIL">
+  <data key="d0">472</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="IDUMBA" target="CHITTARIPPARAMB">
+  <data key="d0">472</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KELAKAM" target="KOLAKKAD">
+  <data key="d0">738</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KELAKAM" target="VELLUNNI">
+  <data key="d0">670</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KELAKAM" target="ADAKKATHOD- IRITTY">
+  <data key="d0">682</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="RANDAMKADAVU" target="VANIYAPPARA">
+  <data key="d0">577</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THEKKI BAZAR" target="VARAM KADAVU">
+  <data key="d0">125</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PAVANNUR KADAVU" target="ORAPPADI">
+  <data key="d0">652</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KADAVATHUR- THALASSERY" target="PARAKKADAVU">
+  <data key="d0">130</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARAKKADAVU" target="VALAYAM">
+  <data key="d0">702</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THOTTILPALAM" target="KUTTYADI">
+  <data key="d0">396</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THOTTILPALAM" target="KUNDUTHODE">
+  <data key="d0">554</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THOTTILPALAM" target="THALASSERY">
+  <data key="d0">554</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THOTTILPALAM" target="PERINGATHOOR">
+  <data key="d0">731</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS ST AND" target="THOTTADA">
+  <data key="d0">211</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS ST AND" target="KADAPPURAM ROAD">
+  <data key="d0">295</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR HQ HOSP BUS ST AND" target="KANNUR-THAVAKKARA BUS ST AND">
+  <data key="d0">320</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PATTUVAM" target="BEACH ROAD">
+  <data key="d0">157</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PATTUVAM" target="KAVINMUNAMBU">
+  <data key="d0">587</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KACHERITHARA" target="KOVVAPURAM- EZHILODE">
+  <data key="d0">656</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOZHICHAL" target="RAJAGIRI- ALAKODE">
+  <data key="d0">616</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOZHICHAL" target="KANAMVAYAL">
+  <data key="d0">704</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VALLITHODE" target="MATTARA- ULIKKAL">
+  <data key="d0">177</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARAPPA ALAKODE" target="MANAKADAVU">
+  <data key="d0">387</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THOTTEEKKAL" target="THIRUVATTOOR">
+  <data key="d0">309</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHOOLIYAD" target="PERUVALATHUPARAMBA- IRIKKUR">
+  <data key="d0">152</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VILAKKOTTUR" target="MADAPPURA">
+  <data key="d0">494</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARIYARAM MEDICAL COLLEGE" target="NERUVAMBRAM">
+  <data key="d0">628</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARIYARAM MEDICAL COLLEGE" target="KANNUR- THAVAKKARA BUS STAND">
+  <data key="d0">628</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MATTARA- ULIKKAL" target="KALANKI- ULIKKAL">
+  <data key="d0">158</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KALANKI- ULIKKAL" target="URUPPUMKUTTY,">
+  <data key="d0">713</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERA" target="PALIYATH VALAPPU">
+  <data key="d0">160</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NIRANTHODE" target="ORAVAYAL">
+  <data key="d0">230</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NIRANTHODE" target="CHERUVATHALAMOTTA">
+  <data key="d0">645</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUNDERIKADAVU" target="MUNDERIMOTTA">
+  <data key="d0">276</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MUNDERIKADAVU" target="KANNADIPARAMBA BUS STOP">
+  <data key="d0">276</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NEERKADAVU" target="PUTHIYATHERU">
+  <data key="d0">295</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KEEZHPALLY- IRITTY" target="PARIPPUTHODU">
+  <data key="d0">204</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="EDAKKEPURAM" target="AYYOT H">
+  <data key="d0">324</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="EDAKKEPURAM" target="EDAKKEPURAM">
+  <data key="d0">324</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ETTUPARA" target="CHEDIKKULAM">
+  <data key="d0">179</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEDIKKULAM" target="AMBALAKANDY">
+  <data key="d0">744</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEDIKKULAM" target="ARALAM- IRITTY">
+  <data key="d0">744</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAKKARA" target="VELLORA- MATHAMANGALAM">
+  <data key="d0">189</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAKKARA" target="CHAKKALAKUNNU">
+  <data key="d0">338</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAKKARA" target="PURAVATTAM">
+  <data key="d0">475</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAKKARA" target="VELLORA">
+  <data key="d0">742</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PADANNA" target="PADANNAKADAPPURAM">
+  <data key="d0">488</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERY" target="PARAPRAM-">
+  <data key="d0">406</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THALASSERY" target="THIRUNELLY">
+  <data key="d0">689</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARASSINIKADAVU BUS ST AND" target="ARIVILANJAPOYIL- ALAKODE">
+  <data key="d0">228</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PORORA" target="KEECHERI">
+  <data key="d0">206</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="OLAYAMBADI- MATHAMANGALAM" target="NHEKLY">
+  <data key="d0">441</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="OLAYAMBADI- MATHAMANGALAM" target="KARMMEL">
+  <data key="d0">441</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="EMS VAYANASALA" target="PALAYAM THATTARIPPALAM ROAD">
+  <data key="d0">215</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAVINMUNAMBU" target="MULLOOL">
+  <data key="d0">669</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PULIKURUMBA" target="CHERIYA AREEKKAMALA">
+  <data key="d0">551</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ARIVILANJAPOYIL- ALAKODE" target="OTTATHAI">
+  <data key="d0">334</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ARIVILANJAPOYIL- ALAKODE" target="UDAYAGIRI ALAKODE">
+  <data key="d0">699</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="TIRUR - PAYYAVOOR" target="KANHILERI">
+  <data key="d0">231</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="SOUTH BAZAR" target="KANNUR RAILWAT STATION">
+  <data key="d0">251</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR RAILWAT STATION" target="PAYYAMBALAM">
+  <data key="d0">251</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PURAVATTAM" target="KAKKARA- MATHAMANGALAM">
+  <data key="d0">254</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PURAVATTAM" target="KADUKKARAM BUS STOP">
+  <data key="d0">475</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PUTHIYATHERU" target="VANKULATHVAYAL">
+  <data key="d0">637</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PUTHIYATHERU" target="CHELERI MUKKU">
+  <data key="d0">707</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PUTHIYATHERU" target="KANNUR BUS S">
+  <data key="d0">707</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHENDAYAD- THALASSERY" target="PANOOR- THALASSERY">
+  <data key="d0">259</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHENDAYAD- THALASSERY" target="NILLANGAL">
+  <data key="d0">363</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="C.H MUKKU" target="PARAPRAM-">
+  <data key="d0">271</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARAPRAM-" target="ANDALOOR KAVU,">
+  <data key="d0">549</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PARAPRAM-" target="C H MUKK">
+  <data key="d0">549</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MEENKADAV" target="KOYYOTTPALAM">
+  <data key="d0">559</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ORAPPADI" target="MULLAKODY">
+  <data key="d0">527</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VANCHIYAM" target="ONNAMPALAM">
+  <data key="d0">393</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VANCHIYAM" target="CHANDANAKKAMPARA">
+  <data key="d0">666</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KARARAMBA" target="PALLIMUKKU">
+  <data key="d0">304</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="BANDADKKA" target="VELLARIKUNDU">
+  <data key="d0">305</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THIRUVATTOOR" target="AMMANAPPARA">
+  <data key="d0">309</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS ST AND" target="IRINAVE ROAD">
+  <data key="d0">646</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNUR-THAVAKKARA BUS ST AND" target="KUDUKKIMOTTA">
+  <data key="d0">733</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="RAMANTHALI NAVAL GATE" target="KOROME ENGG COLLEGE">
+  <data key="d0">329</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOZHIKODE CITY" target="KARIPUR">
+  <data key="d0">359</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANHANGAD BUS STNAD" target="KASARAGOD">
+  <data key="d0">382</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ONNAMPALAM" target="CHANDANAKKAMPARA">
+  <data key="d0">393</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THIRUMENI" target="MUTHUVAM TEMPLE">
+  <data key="d0">468</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAKKEYANGAD" target="VANIYAPPARA">
+  <data key="d0">410</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VANIYAPPARA" target="CHARAL">
+  <data key="d0">732</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VANIYAPPARA" target="URUPPUMKUTTY,">
+  <data key="d0">713</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PERALASSERY TEMPLE" target="KADACHIRA">
+  <data key="d0">436</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VALAYAM" target="CHUZHALI">
+  <data key="d0">702</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHEMPERI ENGG COLLEGE" target="CHERIYA AREEKKAMALA">
+  <data key="d0">458</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="CHERIYA AREEKKAMALA" target="PULIMARAMCHEETHA">
+  <data key="d0">551</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THRIKADARIPPOYIL" target="THODEEKALAM">
+  <data key="d0">631</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PATHAYAKUNNU- THALASSERY" target="KOTTAYODI">
+  <data key="d0">489</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="VELLARIKKUNDU" target="KUNNUMKAI">
+  <data key="d0">505</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUNNUMKAI" target="CHITTARIKKAL">
+  <data key="d0">505</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNAVAM" target="THRIKKADARIPOIL">
+  <data key="d0">509</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KOTTIYUR" target="THUDIMARAM">
+  <data key="d0">713</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANJIRAKOLLI" target="KUNNATHOOR PADI">
+  <data key="d0">623</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MAHEPALAM" target="MAHE RLY">
+  <data key="d0">612</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ERYAM" target="THENAM">
+  <data key="d0">579</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THUDIMARAM" target="ANAPANTHI KAVALA">
+  <data key="d0">713</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KODUVALLY" target="VADAKKUMBAD">
+  <data key="d0">612</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="AADIKADALAYI" target="PODIKKUNDU">
+  <data key="d0">700</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KUNNUMKAIPALLI" target="PODIKKUNDU">
+  <data key="d0">700</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NADUVIL" target="CHEMPANTHOTTY">
+  <data key="d0">753</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAVUMBAI" target="KAPPATTUKUNNU">
+  <data key="d0">626</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KAPPATTUKUNNU" target="CHEPPARAMBA SREEKANDPURAMA">
+  <data key="d0">753</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="MANANTHAVADY" target="THIRUNELLY">
+  <data key="d0">689</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="POYILOOR MADAPPURA" target="C POYILOOR">
+  <data key="d0">691</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THAVIDISSERI" target="CHOORAL">
+  <data key="d0">704</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="NARAYANAKALU THATTU" target="PATHENPARA">
+  <data key="d0">705</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PATHENPARA" target="KARUVANCHAL,">
+  <data key="d0">705</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KARUVANCHAL," target="THUVAKKUNNU">
+  <data key="d0">705</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="THUVAKKUNNU" target="MANATTY">
+  <data key="d0">705</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="PULLOOPP BUS STOP" target="CHELERI MUKKU">
+  <data key="d0">707</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KANNADIPARAMBA" target="PADAPPENGAD">
+  <data key="d0">712</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="RAYAROME" target="ALAKKAD">
+  <data key="d0">721</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="KARYAPPALLI" target="VELLORA">
+  <data key="d0">742</data>
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
