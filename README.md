@@ -3,6 +3,8 @@
 SahaYaatri is a cross platform app which is used to assist passengers in getting private bus timings in Kerala with data scraped from RTO.
 Credits - @amith-vp https://github.com/amith-vp/Kerala-Private-Bus-Timing/tree/main for the scraped data. The cross platform build is done using Tauri
 
+The route is calculated using Dijsktra algorithm
+
 ## Features
 - **Bus Route Information**: Detailed information about bus routes.
 - **Schedule Management**: Up-to-date bus schedules.
