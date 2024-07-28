@@ -1,21 +1,11 @@
-Here is the updated README with the GNU GPL 3 license:
-
-```markdown
 # SahaYaatri
 
-SahaYaatri is a project aimed at providing efficient and reliable information about bus routes, schedules, and stations. This repository contains the codebase for data processing and service APIs to support the SahaYaatri platform.
-
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+SahaYaatri is a cross platform app which is used to assist passengers in getting private bus timings in Kerala with data scraped from RTO.
+Credits - @amith-vp https://github.com/amith-vp/Kerala-Private-Bus-Timing/tree/main for the scraped data
 
 ## Features
 - **Bus Route Information**: Detailed information about bus routes.
 - **Schedule Management**: Up-to-date bus schedules.
-- **Station Mapping**: Mapping of bus stations with relevant data.
 - **Data Cleaning**: Scripts for cleaning and managing bus route data.
 
 ## Installation
@@ -36,23 +26,20 @@ To install and set up the project locally, follow these steps:
 3. **Install the required dependencies**:
     ```sh
     pip install -r requirements.txt
+    npm init
     ```
 
 ## Usage
 To use the SahaYaatri services, run the main application:
-
+Backend :
 ```sh
 python main.py
 ```
-
-### Example
-To get information about a specific bus route:
-```python
-import requests
-
-response = requests.get('http://localhost:5000/bus?route_id=123')
-print(response.json())
+Frontend
+```sh
+npm run dev
 ```
+The backend is hosted at: https://e4a9ba33-8863-44a3-8d32-44f1e9461eb4-00-10r67gl7xdrw5.worf.replit.dev/bus_routes using replit with keys reqd are source and destination
 
 ## Contributing
 We welcome contributions! Please follow these steps to contribute:
@@ -69,5 +56,3 @@ Please ensure your code follows our coding standards and includes appropriate te
 ## License
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
 ```
-
-This README provides an overview of the project, instructions for installation, usage examples, guidelines for contributing, and specifies the GNU GPL 3 license.
