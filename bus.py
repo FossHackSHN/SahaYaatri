@@ -54,11 +54,13 @@ class Bus():
         except nx.NetworkXNoPath:
             return -1
         
-    def process(self,source,dest):
+    def process_sd(self,source,dest):
         route_segments= self.get_route_segments(source,dest)
         routes=[]
         result={}
         for i in route_segments.items():
-            routes.append(self.get_direct_route_buses(i[0][0],i[-1][1]))
+            routes.append({'name':f'{source} to {dest}','route':self.get_direct_route_buses(i[1][0][0],i[1][-1][1])})
         result['bus_routes']=routes
         return result
+    
+
