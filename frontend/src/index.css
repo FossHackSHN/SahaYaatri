@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-font-family: "DM Sans", sans-serif;
+
+  --padding-medium: 4px;
+  --padding-large: 8px;
+
+  --margin-large: 24px;
+
+  --icon-size-medium: 24px;
+  --icon-size-large: 32px;
+
+  --color-primary: #2a9d8f;
+
+  --footer-height: 48px;
+  --border-radius-medium: 4px;
+}
+
+.app {
+  padding: var(--padding-medium);
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  background-color: var(--color-primary);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: var(--border-radius-medium);
+}
+
+.header h1 {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 600;
+  font-size: 4rem;
+  color: white;
+}
+
+.header svg {
+  margin-left: 12px;
+}
+
+.footer {
+  display: flex;
+  background-color: var(--color-primary);
+  align-items: center;
+  justify-content: space-between;
+  height: var(--footer-height);
+  padding: 0 24px;
+  border-radius: var(--border-radius-medium);
+}
+
+.footer p {
+  color: white;
+  font-family: var(--primary-font-family);
+}
+
+.footer>div {
+  display: flex;
+  gap: 4px;
+}
+
+.footer img {
+  height: var(--icon-size-medium);
+  width: var(--icon-size-medium);
+  transition: all .3s;
+}
+
+.footer img:hover {
+  height: var(--icon-size-large);
+  width: var(--icon-size-large);
+}
+
+.main {
+  flex: 2;
+}
+
+.app {
+  height: 100vh;
+}
+
+.container {
+  border: 2px solid #264653;
+  height: calc(100% - 2 * var(--margin-large));
+  margin-top: var(--margin-large);
+  border-radius: var(--border-radius-medium);
+}
+
+.form-control {
+  padding-right: 34px;
+}
+
+.toggle-button {
+  background: transparent;
+  border: 0;
+  bottom: 0;
+  padding: 0 12px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+label{
+  font-size:0.8rem;
+}
+
+.typeahead{
+  margin-bottom: 12px;
+  width: 100%;
+}
+
+.find-form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.find-button{
+  width: fit-content;
+  padding: 6px 32px;
+  border:none;
+  background-color: var(--color-primary);
+  border-radius: var(--border-radius-medium);
+  color: white;
+}
