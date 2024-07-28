@@ -26,7 +26,7 @@ To install and set up the project locally, follow these steps:
 3. **Install the required dependencies**:
     ```sh
     pip install -r requirements.txt
-    npm init
+    npm i
     ```
 
 ## Usage
