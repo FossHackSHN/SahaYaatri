@@ -1,8 +1,20 @@
 import logo from "../assets/bus1.svg";
+import ArrowBackIosIcon from "@mui/icons-material/ArrowBackIos";
 
-function Header({ title }) {
+function Header({ title, isMainPage,clearRoutes }) {
+
   return (
     <header className="header">
+      {!isMainPage ? (
+        <button className="back-icon-button" onClick={clearRoutes}>
+          <ArrowBackIosIcon
+            sx={{ fontSize: 32, color: "white" }}
+            className="back-icon"
+          />
+        </button>
+      ) : (
+        <></>
+      )}
       <h1>{title}</h1>
       <svg
         width="48px"

@@ -1,38 +1,27 @@
 import { useState } from "react";
-import BusStopTypeahead from "./BusStopTypeahead";
+import SearchPage from "./SearchPage";
+import RouteListPage from "./RouteListPage";
 
-function Main() {
-  const [from,setFrom]=useState("");
-  const [to,setTo]=useState("");
+function Main({onRouteChange}) {
+  const [routes, setRoutes] = useState([]);
 
-  function searchRoute(){
-    try{
-      
-    }catch{
-
-    }finally{
-
-    }
+  function onUpdateRoutes(routes){
+    setRoutes(routes);
+    onRouteChange(routes);
   }
 
   return (
     <main className="main">
       <div className="container">
-        <form className="find-form">
-          <BusStopTypeahead
-            id="from"
-            placeholder="Select the starting stop"
-            label="From"
-            onChange={(val)=>setFrom(val)}
-          />
-          <BusStopTypeahead
-            id="to"
-            placeholder="Select the destination stop"
-            label="To"
-            onChange={(val)=>setTo(val)}
-          />
-          <button type="submit" className="find-button" onClick={searchRoute}>Find</button>
-        </form>
+        {routes.length == 0 ? (
+          <SearchPage setRoutes={onUpdateRoutes} />
+        ) : (
+          <div>
+            {routes.map((route) => (
+              <RouteListPage paths={route.route} name={route.name} key={route.name}/>
+            ))}
+          </div>
+        )}
       </div>
     </main>
   );

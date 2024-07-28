@@ -5,7 +5,7 @@ import whatsapp from "../assets/whatsapp-dark.png";
 function Footer() {
     return (
         <footer className="footer">
-            <p>Sahayathri, your travel guide.</p>
+            <p>Sahayaatri, your travel guide.</p>
             <div>
                 <img src={instagram}></img>
                 <img src={twitter}></img>
