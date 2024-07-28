@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Step 1: Read the CSV file into a DataFrame
-df = pd.read_csv('/home/sivadam/SahaYaatri/stations_mapping.csv')
+df = pd.read_csv('./stations_mapping.csv')
 
 # Step 2: Remove duplicate rows
 df_cleaned = df.drop_duplicates()

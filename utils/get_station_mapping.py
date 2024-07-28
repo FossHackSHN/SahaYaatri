@@ -42,5 +42,5 @@ def process_json_files(folder_path):
     print("CSV file 'stations_mapping.csv' created successfully.")
 
 # Define the path to the folder containing JSON files
-folder_path = '/home/sivadam/SahaYaatri/JSON_Files'
+folder_path = './JSON_Files'
 process_json_files(folder_path)
